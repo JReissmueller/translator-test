@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ServiceInvoices.!error.service_id.exists'] = 'ID de servicio no válido.';
-$lang['ServiceInvoices.!error.invoice_id.exists'] = 'ID de factura no válido.';
-$lang['ServiceInvoices.!error.failed_attempts.format'] = 'Los intentos fallidos deben ser un número.';
-$lang['ServiceInvoices.!error.maximum_attempts.format'] = 'El número máximo de intentos debe ser un número.';
-$lang['ServiceInvoices.!error.date_next_attempt.format'] = 'La fecha del próximo intento debe ser una fecha.';
+$lang['ServiceInvoices.!error.service_id.exists'] = 'Di ecivres dilavni';
+$lang['ServiceInvoices.!error.invoice_id.exists'] = 'Di eciovni dilavni';
+$lang['ServiceInvoices.!error.failed_attempts.format'] = 'Rebmun a eb tsum stpmetta deliaf';
+$lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Rebmun a eb tsum stpmetta mumixam';
+$lang['ServiceInvoices.!error.date_next_attempt.format'] = 'Etad a eb tsum tpmetta txen etad';
 
