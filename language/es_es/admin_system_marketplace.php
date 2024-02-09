@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemMarketplace.index.page_title'] = 'Ecalptekram > metsys > sgnittes';
-$lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Ecalptekram';
-$lang['AdminSystem.marketplace.category_all'] = 'Lla';
-$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Elbaliavanu yltnerruc si ecalptekram eht';
-$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = '%1$s noisnetxe';
+$lang['AdminSystemMarketplace.index.page_title'] = 'Configuración > Sistema > Mercado';
+$lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Mercado';
+$lang['AdminSystem.marketplace.category_all'] = 'Todos';
+$lang['AdminSystemMarketplace.index.text_unavailable'] = 'El Mercado no está disponible actualmente.';
+$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Extensión %1$s';
 

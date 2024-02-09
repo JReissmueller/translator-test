@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerPlugin.name'] = 'Reganam daolnwod';
-$lang['DownloadManagerPlugin.description'] = 'Daolnwod ot stneilc rof elbaliava edam dna dedaolpu eb ot selif swolla';
-$lang['DownloadManagerPlugin.client_main'] = 'Sdaolnwod';
-$lang['DownloadManagerPlugin.admin_main'] = 'Reganam daolnwod';
+$lang['DownloadManagerPlugin.name'] = 'Gestor de descargas';
+$lang['DownloadManagerPlugin.description'] = 'Permite cargar archivos y ponerlos a disposición de los clientes para su descarga.';
+$lang['DownloadManagerPlugin.client_main'] = 'Descargas';
+$lang['DownloadManagerPlugin.admin_main'] = 'Gestor de descargas';
 

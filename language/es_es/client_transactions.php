@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientTransactions.index.page_title'] = 'Snoitcasnart %1$s# tneilc';
-$lang['ClientTransactions.index.boxtitle_transactions'] = 'Snoitcasnart';
-$lang['ClientTransactions.index.category_approved'] = 'Devorppa';
-$lang['ClientTransactions.index.category_pending'] = 'Gnidnep';
-$lang['ClientTransactions.index.category_declined'] = 'Denilced';
-$lang['ClientTransactions.index.heading_type'] = 'Epyt';
-$lang['ClientTransactions.index.heading_amount'] = 'Tnuoma';
-$lang['ClientTransactions.index.heading_credited'] = 'Detiderc';
-$lang['ClientTransactions.index.heading_applied'] = 'Deilppa';
-$lang['ClientTransactions.index.heading_number'] = 'Rebmun';
-$lang['ClientTransactions.index.heading_date'] = 'Etad';
-$lang['ClientTransactions.index.no_results'] = 'Snoitcasnart %1$s on evah uoy';
-$lang['ClientTransactions.applied.heading_invoice'] = 'Eciovni';
-$lang['ClientTransactions.applied.heading_amount'] = 'Tnuoma';
-$lang['ClientTransactions.applied.heading_appliedon'] = 'No deilppa';
-$lang['ClientTransactions.applied.no_results'] = 'Seciovni yna ot deilppa neeb ton sah noitcasnart siht';
+$lang['ClientTransactions.index.page_title'] = 'Cliente #%1$s Transacciones';
+$lang['ClientTransactions.index.boxtitle_transactions'] = 'Transacciones';
+$lang['ClientTransactions.index.category_approved'] = 'Aprobado';
+$lang['ClientTransactions.index.category_pending'] = 'Pendiente';
+$lang['ClientTransactions.index.category_declined'] = 'Rechazado';
+$lang['ClientTransactions.index.heading_type'] = 'Tipo';
+$lang['ClientTransactions.index.heading_amount'] = 'Importe';
+$lang['ClientTransactions.index.heading_credited'] = 'Acreditado';
+$lang['ClientTransactions.index.heading_applied'] = 'Aplicada';
+$lang['ClientTransactions.index.heading_number'] = 'Número';
+$lang['ClientTransactions.index.heading_date'] = 'Fecha';
+$lang['ClientTransactions.index.no_results'] = 'No tiene %1$s Transacciones.';
+$lang['ClientTransactions.applied.heading_invoice'] = 'Factura';
+$lang['ClientTransactions.applied.heading_amount'] = 'Importe';
+$lang['ClientTransactions.applied.heading_appliedon'] = 'Aplicado en';
+$lang['ClientTransactions.applied.no_results'] = 'Esta transacción no se ha aplicado a ninguna factura.';
 

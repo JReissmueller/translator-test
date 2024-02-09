@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Permissions.!error.group_id.exists'] = 'Tsixe ton seod nevig puorg noissimrep eht';
-$lang['Permissions.!error.name.empty'] = 'Eman a evah tsum noissimrep eht';
-$lang['Permissions.!error.alias.empty'] = 'Saila na evah tsum noissimrep eht';
-$lang['Permissions.!error.action.empty'] = 'Noitca na evah tsum noissimrep eht';
-$lang['Permissions.!error.plugin_id.exists'] = 'Tsixe ton seod noissimrep siht rof deificeps nigulp eht';
-$lang['Permissions.!error.name.group_empty'] = 'Eman a evah tsum puorg noissimrep eht';
-$lang['Permissions.!error.level.group_empty'] = '\'tneilc\' ro \'ffats\' rehtie eb tsum level eht';
-$lang['Permissions.!error.alias.group_empty'] = 'Saila na evah tsum puorg noissimrep eht';
-$lang['Permissions.!error.plugin_id.group_exists'] = 'Tsixe ton seod puorg noissimrep siht rof deificeps nigulp eht';
+$lang['Permissions.!error.group_id.exists'] = 'El grupo de permisos indicado no existe.';
+$lang['Permissions.!error.name.empty'] = 'El permiso debe tener un nombre.';
+$lang['Permissions.!error.alias.empty'] = 'El permiso debe tener un alias.';
+$lang['Permissions.!error.action.empty'] = 'El permiso debe tener una acción.';
+$lang['Permissions.!error.plugin_id.exists'] = 'El plugin especificado para este permiso no existe.';
+$lang['Permissions.!error.name.group_empty'] = 'El grupo de permisos debe tener un nombre.';
+$lang['Permissions.!error.level.group_empty'] = 'El nivel debe ser "personal" o "cliente".';
+$lang['Permissions.!error.alias.group_empty'] = 'El grupo de permisos debe tener un alias.';
+$lang['Permissions.!error.plugin_id.group_exists'] = 'El plugin especificado para este grupo de permisos no existe.';
 

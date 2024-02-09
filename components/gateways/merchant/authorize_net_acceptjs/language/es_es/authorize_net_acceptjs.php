@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AuthorizeNetAcceptjs.!error.auth'] = 'Etacitnehtua ton dluoc yawetag eht';
-$lang['AuthorizeNetAcceptjs.!error.transaction_key.empty'] = 'Yek noitcasnart a retne esaelp';
-$lang['AuthorizeNetAcceptjs.!error.login_id.empty'] = 'Di nigol a retne esaelp';
-$lang['AuthorizeNetAcceptjs.!error.login_id.valid'] = 'Di nigol nevig eht gnisu ipa ten.ezirohtua eht ot tcennoc ot elbanu';
-$lang['AuthorizeNetAcceptjs.!error.sandbox.valid'] = 'Nevig fi "eurt" ot tes eb tsum xobdnas';
-$lang['AuthorizeNetAcceptjs.name'] = 'Sj.tpecca ten.ezirohtua';
-$lang['AuthorizeNetAcceptjs.description'] = 'Ten.ezirohtua ot yltcerid ti stimbus dna atad tnemyap eht serutpac sj.tpecca .ten.ezirohtua ot yltcerid atad tnemyap eruces dnes';
-$lang['AuthorizeNetAcceptjs.field_number'] = 'Rebmun';
-$lang['AuthorizeNetAcceptjs.field_security'] = 'Edoc ytiruces';
-$lang['AuthorizeNetAcceptjs.field_expiration'] = 'Etad noitaripxe';
-$lang['AuthorizeNetAcceptjs.login_id'] = 'Di nigol';
-$lang['AuthorizeNetAcceptjs.transaction_key'] = 'Yek noitcasnart';
-$lang['AuthorizeNetAcceptjs.sandbox'] = 'Xobdnas';
-$lang['AuthorizeNetAcceptjs.sandbox_note'] = 'Tnuocca xobdnas ten.ezirohtua na htiw gnitset era uoy fi noitpo siht elbane ylno .tnemnorivne xobdnas ten.ezirohtua eht ot snoitcasnart tsop lliw noitpo siht gnilbane';
-$lang['AuthorizeNetAcceptjs.charge_description_default'] = 'Tnuoma deificeps rof egrahc';
-$lang['AuthorizeNetAcceptjs.charge_description'] = '%1$s rof egrahc';
+$lang['AuthorizeNetAcceptjs.!error.auth'] = 'La puerta de enlace no ha podido autenticarse.';
+$lang['AuthorizeNetAcceptjs.!error.transaction_key.empty'] = 'Introduzca una clave de transacción.';
+$lang['AuthorizeNetAcceptjs.!error.login_id.empty'] = 'Introduzca un ID de inicio de sesión.';
+$lang['AuthorizeNetAcceptjs.!error.login_id.valid'] = 'No se ha podido conectar a la API de Authorize.net con el ID de inicio de sesión indicado.';
+$lang['AuthorizeNetAcceptjs.!error.sandbox.valid'] = 'Sandbox se debe establecer en "true" si se da.';
+$lang['AuthorizeNetAcceptjs.name'] = 'Authorize.Net Accept.js';
+$lang['AuthorizeNetAcceptjs.description'] = 'Envíe datos de pago seguros directamente a Authorize.net. Accept.js captura los datos de pago y los envía directamente a Authorize.net.';
+$lang['AuthorizeNetAcceptjs.field_number'] = 'Número';
+$lang['AuthorizeNetAcceptjs.field_security'] = 'Código de seguridad';
+$lang['AuthorizeNetAcceptjs.field_expiration'] = 'Fecha de expiración';
+$lang['AuthorizeNetAcceptjs.login_id'] = 'Identificador';
+$lang['AuthorizeNetAcceptjs.transaction_key'] = 'Clave de transacción';
+$lang['AuthorizeNetAcceptjs.sandbox'] = 'Cajón de arena';
+$lang['AuthorizeNetAcceptjs.sandbox_note'] = 'Al activar esta opción, las transacciones se publicarán en el entorno de Authorize.Net Sandbox. Habilite esta opción únicamente si está realizando pruebas con una cuenta de Authorize.Net Sandbox.';
+$lang['AuthorizeNetAcceptjs.charge_description_default'] = 'Cargo por importe especificado';
+$lang['AuthorizeNetAcceptjs.charge_description'] = 'Cargo por %1$s';
 

@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CouponTerms.!error.coupon_id.exists'] = 'Tsixe ton seod nopuoc nevig eht';
-$lang['CouponTerms.!error.term.format'] = 'Doirep hcae rof mret dilav a retne esaelp';
-$lang['CouponTerms.!error.period.valid'] = 'Doirep dilav a retne esaelp';
-$lang['CouponTerms.!error.term_id.exists'] = 'Tsixe ton seod mret nopuoc nevig eht';
-$lang['CouponTerms.getperiods.day'] = 'Yad';
-$lang['CouponTerms.getperiods.week'] = 'Keew';
-$lang['CouponTerms.getperiods.month'] = 'Htnom';
-$lang['CouponTerms.getperiods.year'] = 'Raey';
-$lang['CouponTerms.getperiods.onetime'] = 'Emit eno';
+$lang['CouponTerms.!error.coupon_id.exists'] = 'El cupón indicado no existe.';
+$lang['CouponTerms.!error.term.format'] = 'Introduzca un término válido para cada periodo.';
+$lang['CouponTerms.!error.period.valid'] = 'Por favor, introduzca un periodo válido.';
+$lang['CouponTerms.!error.term_id.exists'] = 'El término de cupón dado no existe.';
+$lang['CouponTerms.getperiods.day'] = 'Día';
+$lang['CouponTerms.getperiods.week'] = 'Semana';
+$lang['CouponTerms.getperiods.month'] = 'Mes';
+$lang['CouponTerms.getperiods.year'] = 'Año';
+$lang['CouponTerms.getperiods.onetime'] = 'Una vez';
 

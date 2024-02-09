@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Blacklist.!error.rule.exists'] = 'Esabatad eht ni stsixe ydaerla elur siht';
-$lang['Blacklist.!error.plugin_dir.exists'] = 'Tsixe ton seod nevig nigulp eht';
-$lang['Blacklist.!error.type.format'] = '"liame" ro "pi" eb tsum epyt eht';
-$lang['Blacklist.!error.rule.format_ip'] = 'Noitaton rdic a ro sserdda pi dilav a ton si elur dedivorp eht';
-$lang['Blacklist.!error.rule.format_email'] = 'Sserdda liame a ton si elur dedivorp eht';
-$lang['Blacklist.type.ip'] = 'Rdic / sserdda pi';
-$lang['Blacklist.type.email'] = 'Sserdda liame';
+$lang['Blacklist.!error.rule.exists'] = 'Esta regla ya existe en la base de datos.';
+$lang['Blacklist.!error.plugin_dir.exists'] = 'El plugin indicado no existe.';
+$lang['Blacklist.!error.type.format'] = 'El tipo debe ser "ip" o "email".';
+$lang['Blacklist.!error.rule.format_ip'] = 'La regla proporcionada no es una dirección IP válida o una notación CIDR.';
+$lang['Blacklist.!error.rule.format_email'] = 'La regla proporcionada no es una dirección de correo electrónico.';
+$lang['Blacklist.type.ip'] = 'Dirección IP / CIDR';
+$lang['Blacklist.type.email'] = 'Dirección de correo electrónico';
 

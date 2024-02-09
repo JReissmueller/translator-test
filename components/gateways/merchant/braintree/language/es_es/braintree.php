@@ -9,18 +9,18 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Braintree.name'] = 'Eertniarb';
-$lang['Braintree.description'] = 'Eertniarb gnisu seicnerruc 031 naht erom ni stnemyap elbane dna ,tilps ,tpecca nac ediwdlrow snoiger/seirtnuoc 54 naht erom ni stnahcrem';
-$lang['Braintree.merchant_id'] = 'Di tnahcrem';
-$lang['Braintree.public_key'] = 'Yek cilbup';
-$lang['Braintree.private_key'] = 'Yek etavirp';
-$lang['Braintree.live_mode'] = 'Edom evil';
-$lang['Braintree.environment'] = 'Tnemnorivne';
-$lang['Braintree.environment.sandbox'] = 'Xobdnas';
-$lang['Braintree.environment.production'] = 'Noitcudorp';
-$lang['Braintree.!error.live_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom evil';
-$lang['Braintree.!error.merchant_id'] = 'Di tnahcrem ruoy retne esaelp';
-$lang['Braintree.!error.public_key'] = 'Yek cilbup ruoy retne esaelp';
-$lang['Braintree.!error.private_key'] = 'Yek etavirp ruoy retne esaelp';
-$lang['Braintree.!error.environment'] = 'Tnemnorivne dilav a tceles esaelp';
+$lang['Braintree.name'] = 'Braintree';
+$lang['Braintree.description'] = 'Los comerciantes de más de 45 países/regiones de todo el mundo pueden aceptar, dividir y permitir pagos en más de 130 divisas utilizando Braintree.';
+$lang['Braintree.merchant_id'] = 'ID de comerciante';
+$lang['Braintree.public_key'] = 'Clave pública';
+$lang['Braintree.private_key'] = 'Clave privada';
+$lang['Braintree.live_mode'] = 'Modo Live';
+$lang['Braintree.environment'] = 'Medio ambiente';
+$lang['Braintree.environment.sandbox'] = 'Cajón de arena';
+$lang['Braintree.environment.production'] = 'Producción';
+$lang['Braintree.!error.live_mode.valid'] = 'El modo en directo debe establecerse en "true" si se da.';
+$lang['Braintree.!error.merchant_id'] = 'Por favor, introduzca su identificador de comerciante.';
+$lang['Braintree.!error.public_key'] = 'Por favor, introduzca su clave pública.';
+$lang['Braintree.!error.private_key'] = 'Por favor, introduzca su clave privada.';
+$lang['Braintree.!error.environment'] = 'Seleccione un entorno válido.';
 

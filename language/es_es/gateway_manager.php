@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['GatewayManager.!error.company_id.valid'] = 'Dilavni si di ynapmoc';
-$lang['GatewayManager.!error.class.valid'] = 'Dilavni si ssalc';
-$lang['GatewayManager.!error.name.valid'] = 'Dilavni si eman';
-$lang['GatewayManager.!error.version.valid'] = 'Dilavni si noisrev';
-$lang['GatewayManager.!error.currencies[].exists'] = 'Yawetag siht yb detpecca ton si ycnerruc eno tsael ta';
-$lang['GatewayManager.!error.currencies[].in_use'] = 'Yawetag rehtona yb esu ni yltnerruc si ycnerruc eno tsael ta';
+$lang['GatewayManager.!error.class.valid'] = 'La clase no es válida.';
+$lang['GatewayManager.!error.company_id.valid'] = 'El ID de la empresa no es válido.';
+$lang['GatewayManager.!error.currencies[].exists'] = 'Al menos una moneda no es aceptada por esta pasarela.';
+$lang['GatewayManager.!error.currencies[].in_use'] = 'Al menos una moneda está siendo utilizada por otra pasarela.';
+$lang['GatewayManager.!error.name.valid'] = 'El nombre no es válido.';
+$lang['GatewayManager.!error.version.valid'] = 'La versión no es válida.';
 

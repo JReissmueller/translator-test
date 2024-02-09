@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Square.name'] = 'Erauqs';
-$lang['Square.description'] = 'Sessenisub llams ni esab remusnoc gnorts a evah eht .ainrofilac ,ocsicnarf nas ni desab ynapmoc tnemyap elibom dna ,rotagergga secivres tnahcrem ,secivres laicnanif a si .cni ,erauqs';
-$lang['Square.application_id'] = 'Di noitacilppa';
-$lang['Square.access_token'] = 'Nekot ssecca';
-$lang['Square.location_id'] = 'Di noitacol';
-$lang['Square.buildprocess.submit'] = 'Erauqs htiw yap';
-$lang['Square.!error.application_id.valid'] = 'Di noitacilppa dilav a retne tsum uoy';
-$lang['Square.!error.access_token.valid'] = 'Nekot ssecca dilav a retne tsum uoy';
-$lang['Square.!error.location_id.valid'] = 'Di noitacol dilav a retne tsum uoy';
+$lang['Square.name'] = 'Cuadrado';
+$lang['Square.description'] = 'Square, Inc. es una empresa de servicios financieros, agregadores de servicios comerciales y pagos móviles con sede en San Francisco, California. Tienen una fuerte base de consumidores en pequeñas empresas';
+$lang['Square.application_id'] = 'Identificación de la solicitud';
+$lang['Square.access_token'] = 'Ficha de acceso';
+$lang['Square.location_id'] = 'Ubicación ID';
+$lang['Square.buildprocess.submit'] = 'Pagar con Square';
+$lang['Square.!error.application_id.valid'] = 'Debe introducir un ID de solicitud válido.';
+$lang['Square.!error.access_token.valid'] = 'Debe introducir un código de acceso válido.';
+$lang['Square.!error.location_id.valid'] = 'Debe introducir un ID de ubicación válido.';
 

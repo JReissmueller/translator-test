@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Alipay.name'] = 'Yapila';
-$lang['Alipay.description'] = 'Anihc dnalniam si tekram yramirp .mroftalp tnemyap enilno dna elibom ytrap-driht tsegral sdlrow eht fo eno';
-$lang['Alipay.merchant_email'] = 'Liame tnahcrem';
-$lang['Alipay.merchant_uid'] = 'Dip/diu tnahcrem';
-$lang['Alipay.signature_key'] = 'Yek erutangis';
-$lang['Alipay.dev_mode'] = 'Edom repoleved';
-$lang['Alipay.dev_mode_note'] = 'Tnuocca xobdnas yapila a htiw gnitset era uoy fi noitpo siht elbane ylno .tnemnorivne xobdnas yapila eht ot snoitcasnart tsop lliw noitpo siht gnilbane';
-$lang['Alipay.buildprocess.submit'] = 'Yapila htiw yap';
-$lang['Alipay.!error.merchant_email.valid'] = 'Sserdda liame dilav a retne tsum uoy';
-$lang['Alipay.!error.merchant_uid.valid'] = 'Dip/diu tnahcrem dilav a retne tsum uoy';
-$lang['Alipay.!error.signature_key.valid'] = 'Yek erutangis dilav a retne tsum uoy';
+$lang['Alipay.name'] = 'Alipay';
+$lang['Alipay.description'] = 'Una de las mayores plataformas de pago en línea y por móvil del mundo. Su mercado principal es China continental.';
+$lang['Alipay.merchant_email'] = 'Correo electrónico del comerciante';
+$lang['Alipay.merchant_uid'] = 'UID/PID del comerciante';
+$lang['Alipay.signature_key'] = 'Clave de firma';
+$lang['Alipay.dev_mode'] = 'Modo Desarrollador';
+$lang['Alipay.dev_mode_note'] = 'Al activar esta opción, las transacciones se publicarán en el entorno Alipay Sandbox. Habilite esta opción solo si está realizando pruebas con una cuenta de Alipay Sandbox.';
+$lang['Alipay.buildprocess.submit'] = 'Pagar con Alipay';
+$lang['Alipay.!error.merchant_email.valid'] = 'Debe introducir una dirección de correo electrónico válida.';
+$lang['Alipay.!error.merchant_uid.valid'] = 'Debe introducir un UID/PID de comerciante válido.';
+$lang['Alipay.!error.signature_key.valid'] = 'Debe introducir una clave de firma válida.';
 

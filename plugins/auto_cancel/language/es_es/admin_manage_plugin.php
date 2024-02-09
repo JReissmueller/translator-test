@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminManagePlugin.!success.settings_saved'] = 'Devas neeb evah sgnittes eht';
-$lang['AdminManagePlugin.index.page_title'] = 'Lecnac otua';
-$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Lecnac otua';
-$lang['AdminManagePlugin.index.heading_settings'] = 'Sgnittes';
-$lang['AdminManagePlugin.index.field.schedule_days'] = 'Dednepsus retfa syad noitallecnac eludehcs';
-$lang['AdminManagePlugin.index.field.cancel_days'] = 'Dednepsus retfa syad secivres lecnac';
-$lang['AdminManagePlugin.index.field.submit'] = 'Evas';
-$lang['AdminManagePlugin.getDays.never'] = 'Reven';
-$lang['AdminManagePlugin.getDays.text_day'] = 'Yad %1$s';
-$lang['AdminManagePlugin.getDays.text_days'] = 'Syad %1$s';
+$lang['AdminManagePlugin.!success.settings_saved'] = 'Los ajustes se han guardado.';
+$lang['AdminManagePlugin.index.page_title'] = 'Cancelación automática';
+$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Cancelación automática';
+$lang['AdminManagePlugin.index.heading_settings'] = 'Ajustes';
+$lang['AdminManagePlugin.index.field.schedule_days'] = 'Anulación del horario Días después de la suspensión';
+$lang['AdminManagePlugin.index.field.cancel_days'] = 'Cancelar servicios días después de la suspensión';
+$lang['AdminManagePlugin.index.field.submit'] = 'Guardar';
+$lang['AdminManagePlugin.getDays.never'] = 'Nunca';
+$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Día';
+$lang['AdminManagePlugin.getDays.text_days'] = '%1$s Días';
 

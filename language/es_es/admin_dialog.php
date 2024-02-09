@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.confirm.text_yes'] = 'Sey';
-$lang['AdminDialog.confirm.text_no'] = 'On';
-$lang['AdminDialog.password.field_modal_password'] = 'Drowssap';
-$lang['AdminDialog.password.field_modal_password_copied'] = 'Ecalp efas a ot drowssap siht deipoc evah i';
-$lang['AdminDialog.password.btn_generate'] = 'Etareneg';
-$lang['AdminDialog.password.btn_modal_password'] = 'Drowssap';
-$lang['AdminDialog.password.btn_cancel'] = 'Lecnac';
-$lang['AdminDialog.password.btn_use_password'] = 'Drowssap esu';
+$lang['AdminDialog.confirm.text_yes'] = 'Sí';
+$lang['AdminDialog.confirm.text_no'] = 'No';
+$lang['AdminDialog.password.field_modal_password'] = 'Contraseña';
+$lang['AdminDialog.password.field_modal_password_copied'] = 'He copiado esta contraseña en un lugar seguro';
+$lang['AdminDialog.password.btn_generate'] = 'Genere';
+$lang['AdminDialog.password.btn_modal_password'] = 'Contraseña';
+$lang['AdminDialog.password.btn_cancel'] = 'Cancelar';
+$lang['AdminDialog.password.btn_use_password'] = 'Utilizar contraseña';
 

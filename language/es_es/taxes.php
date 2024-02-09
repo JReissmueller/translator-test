@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Taxes.!error.company_id.exists'] = 'Di ynapmoc dilavni';
-$lang['Taxes.!error.level.format'] = 'Rebmun a eb tsum level xat eht';
-$lang['Taxes.!error.level.length'] = 'Sretcarahc 2 deecxe ton yam htgnel level xat eht';
-$lang['Taxes.!error.name.length'] = 'Sretcarahc 46 deecxe ton yam htgnel eman xat eht';
-$lang['Taxes.!error.amount.format'] = 'Rebmun a eb tsum tnuoma';
-$lang['Taxes.!error.amount.positive'] = 'Evitisop eb tsum tnuoma';
-$lang['Taxes.!error.type.format'] = 'Epyt xat dilavni';
-$lang['Taxes.!error.country.valid'] = 'Edoc yrtnuoc 1-6613 osi dilav a ton si yrtnuoc';
-$lang['Taxes.!error.state.valid'] = 'Edoc noisividbus 2-6613 osi dilav a ton si etats';
-$lang['Taxes.!error.status.format'] = 'Sutats dilavni';
-$lang['Taxes.!error.tax_id.exists'] = 'Di xat dilavni';
-$lang['Taxes.getTaxStatus.active'] = 'Evitca';
-$lang['Taxes.getTaxStatus.inactive'] = 'Evitcani';
-$lang['Taxes.getTaxTypes.inclusive_calculated'] = 'Evisulcni';
-$lang['Taxes.getTaxTypes.inclusive'] = ')evitidda( evisulcni';
-$lang['Taxes.getTaxTypes.exclusive'] = 'Evisulcxe';
+$lang['Taxes.!error.company_id.exists'] = 'ID de empresa no válida.';
+$lang['Taxes.!error.level.format'] = 'El nivel impositivo debe ser un número.';
+$lang['Taxes.!error.level.length'] = 'La longitud del nivel impositivo no puede superar los 2 caracteres.';
+$lang['Taxes.!error.name.length'] = 'La longitud del nombre del impuesto no puede superar los 64 caracteres.';
+$lang['Taxes.!error.amount.format'] = 'El importe debe ser un número.';
+$lang['Taxes.!error.amount.positive'] = 'El importe debe ser positivo.';
+$lang['Taxes.!error.type.format'] = 'Tipo de impuesto no válido.';
+$lang['Taxes.!error.country.valid'] = 'El país no es un código de país ISO 3166-1 válido.';
+$lang['Taxes.!error.state.valid'] = 'Estado no es un código de subdivisión ISO 3166-2 válido.';
+$lang['Taxes.!error.status.format'] = 'Estado no válido.';
+$lang['Taxes.!error.tax_id.exists'] = 'NIF no válido.';
+$lang['Taxes.getTaxStatus.active'] = 'Activo';
+$lang['Taxes.getTaxStatus.inactive'] = 'Inactivo';
+$lang['Taxes.getTaxTypes.inclusive_calculated'] = 'Inclusivo';
+$lang['Taxes.getTaxTypes.inclusive'] = 'Inclusivo (Aditivo)';
+$lang['Taxes.getTaxTypes.exclusive'] = 'Exclusivo';
 

@@ -9,26 +9,26 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsFeed.name'] = 'Gnicirp niamod';
-$lang['DomainsFeed.description'] = 'Sdlt lla rof gnicirp eht gniniatnoc elbat lmth na snruter';
-$lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Edoc elpmaxe';
-$lang['DomainsFeed.getOptionFields.example_code_table'] = 'Ycnerruc nevig a ni sdlt eht lla rof gnicirp eht gniniatnoc elbat a wohs';
-$lang['DomainsFeed.getOptionFields.header_name'] = 'Eman';
-$lang['DomainsFeed.getOptionFields.header_description'] = 'Noitpircsed';
-$lang['DomainsFeed.getOptionFields.params'] = 'Sretemarap';
-$lang['DomainsFeed.getOptionFields.param_currency'] = 'Ycnerruc';
-$lang['DomainsFeed.getOptionFields.param_currency_description'] = 'Gnicirp hctef ot hcihw rof edoc ycnerruc retcarahc-3 eht';
-$lang['DomainsFeed.getOptionFields.param_style'] = 'Elyts';
-$lang['DomainsFeed.getOptionFields.param_style_description'] = 'Partstoob ro lmth :hctef ot elbat fo elyts eht';
-$lang['DomainsFeed.getOptionFields.param_term'] = 'Mret';
-$lang['DomainsFeed.getOptionFields.param_term_description'] = 'Elbat gnicirp eht ni edulcni ot smret raey fo tsil detarapes-ammoc a';
-$lang['DomainsFeed.table.heading_tlds'] = 'Sdlt';
-$lang['DomainsFeed.table.heading_year'] = 'Raey %1$s';
-$lang['DomainsFeed.table.heading_years'] = 'Sraey %1$s';
-$lang['DomainsFeed.table.register'] = 'Retsiger';
-$lang['DomainsFeed.table.transfer'] = 'Refsnart';
-$lang['DomainsFeed.table.renew'] = 'Wener';
-$lang['DomainsFeed.table.not_available'] = 'Elbaliava ton';
-$lang['DomainsFeed.!error.invalid_endpoint'] = 'Tsixe ton seod ro dilav ton si tniopdne detseuqer eht';
-$lang['DomainsFeed.!error.invalid_style'] = 'Dilav ton si elyts detseuqer eht';
+$lang['DomainsFeed.name'] = 'Precios de los dominios';
+$lang['DomainsFeed.description'] = 'Devuelve una tabla HTML que contiene los precios de todos los TLD.';
+$lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Código de ejemplo';
+$lang['DomainsFeed.getOptionFields.example_code_table'] = 'Mostrar una tabla con los precios de todos los TLD en una moneda determinada:';
+$lang['DomainsFeed.getOptionFields.header_name'] = 'Nombre';
+$lang['DomainsFeed.getOptionFields.header_description'] = 'Descripción';
+$lang['DomainsFeed.getOptionFields.params'] = 'Parámetros';
+$lang['DomainsFeed.getOptionFields.param_currency'] = 'divisa';
+$lang['DomainsFeed.getOptionFields.param_currency_description'] = 'El código de moneda de 3 caracteres para el que obtener el precio.';
+$lang['DomainsFeed.getOptionFields.param_style'] = 'estilo';
+$lang['DomainsFeed.getOptionFields.param_style_description'] = 'El estilo de tabla a recuperar: html o bootstrap.';
+$lang['DomainsFeed.getOptionFields.param_term'] = 'plazo';
+$lang['DomainsFeed.getOptionFields.param_term_description'] = 'Una lista separada por comas de los términos anuales que se incluirán en la tabla de precios';
+$lang['DomainsFeed.table.heading_tlds'] = 'TLDs';
+$lang['DomainsFeed.table.heading_year'] = '%1$s Año';
+$lang['DomainsFeed.table.heading_years'] = '%1$s Años';
+$lang['DomainsFeed.table.register'] = 'Regístrese en';
+$lang['DomainsFeed.table.transfer'] = 'Transferencia';
+$lang['DomainsFeed.table.renew'] = 'Renovar';
+$lang['DomainsFeed.table.not_available'] = 'No disponible';
+$lang['DomainsFeed.!error.invalid_endpoint'] = 'El endpoint solicitado no es válido o no existe.';
+$lang['DomainsFeed.!error.invalid_style'] = 'El estilo solicitado no es válido.';
 

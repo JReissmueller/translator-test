@@ -9,19 +9,19 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ReportManager.!error.type.valid'] = 'Epyt troper dilav a tceles esaelp';
-$lang['ReportManager.!error.format.valid'] = 'Tamrof troper dilav a tceles esaelp';
-$lang['ReportManager.!error.temp_dir.writable'] = 'Ti ot nettirw eb ton dluoc troper eht ro elbatirw ton si yrotcerid pmet eht';
-$lang['ReportManager.!error.name.valid'] = 'Eman a evah tsum troper';
-$lang['ReportManager.!error.query.empty'] = 'Yreuq a evah tsum troper';
-$lang['ReportManager.!error.query.valid'] = 'Yreuq tceles a eb tsum ti dna ,dewolla yreuq eno ylno';
-$lang['ReportManager.!error.date_created.format'] = 'Tamrof dilavni na si detaerc etad';
-$lang['ReportManager.getformats.csv'] = 'Vsc';
-$lang['ReportManager.getformats.json'] = 'Nosj';
-$lang['ReportManager.reportfieldtypes.text'] = 'Txet';
-$lang['ReportManager.reportfieldtypes.select'] = 'Tceles';
-$lang['ReportManager.reportfieldtypes.date'] = 'Etad';
-$lang['ReportManager.reportrequiredtypes.no'] = 'On';
-$lang['ReportManager.reportrequiredtypes.yes'] = 'Sey';
-$lang['ReportManager.reportrequiredtypes.custom'] = 'Xeger motsuc';
+$lang['ReportManager.!error.type.valid'] = 'Seleccione un tipo de informe válido.';
+$lang['ReportManager.!error.format.valid'] = 'Seleccione un formato de informe válido.';
+$lang['ReportManager.!error.temp_dir.writable'] = 'No se puede escribir en el directorio temporal o no se ha podido escribir el informe en él.';
+$lang['ReportManager.!error.name.valid'] = 'El informe debe tener un nombre.';
+$lang['ReportManager.!error.query.empty'] = 'El informe debe tener una consulta.';
+$lang['ReportManager.!error.query.valid'] = 'Sólo se permite una consulta, y debe ser una consulta SELECT.';
+$lang['ReportManager.!error.date_created.format'] = 'Fecha de creación es un formato no válido.';
+$lang['ReportManager.getformats.csv'] = 'CSV';
+$lang['ReportManager.getformats.json'] = 'JSON';
+$lang['ReportManager.reportfieldtypes.text'] = 'Texto';
+$lang['ReportManager.reportfieldtypes.select'] = 'Seleccione';
+$lang['ReportManager.reportfieldtypes.date'] = 'Fecha';
+$lang['ReportManager.reportrequiredtypes.no'] = 'No';
+$lang['ReportManager.reportrequiredtypes.yes'] = 'Sí';
+$lang['ReportManager.reportrequiredtypes.custom'] = 'Regex personalizada';
 

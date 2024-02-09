@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Paystack.!error.secret_key.valid'] = 'Htgnel ni sretcarahc 04 tsael ta eb tsum yek terces eht';
-$lang['Paystack.name'] = 'Dradnats kcatsyap';
-$lang['Paystack.description'] = 'Airegin ni stnemyap enilno gnitpecca trats ot yaw tselpmis ,tsetsaf eht si kcatsyap';
-$lang['Paystack.secret_key'] = 'Yek terces kcatsyap';
-$lang['Paystack.tooltip.secret_key'] = 'Yek tset a retne ylpmis ,edom tset esu ot redro ni';
-$lang['Paystack.buildprocess.submit'] = 'Kcatsyap htiw yap';
+$lang['Paystack.!error.secret_key.valid'] = 'La clave secreta debe tener al menos 40 caracteres.';
+$lang['Paystack.name'] = 'Paystack Estándar';
+$lang['Paystack.description'] = 'Paystack es la forma más rápida y sencilla de empezar a aceptar pagos en línea en Nigeria.';
+$lang['Paystack.secret_key'] = 'Clave secreta de Paystack';
+$lang['Paystack.tooltip.secret_key'] = 'Para utilizar el modo de prueba, basta con introducir una clave de prueba.';
+$lang['Paystack.buildprocess.submit'] = 'Pagar con Paystack';
 

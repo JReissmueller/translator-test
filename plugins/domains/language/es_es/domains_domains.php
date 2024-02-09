@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsDomains.!error.invoices_renew_service'] = 'Diap neeb evah niamod siht gniniatnoc seciovni lla litnu dewener eb tonnac niamod eht';
-$lang['DomainsDomains.!error.invalid_term'] = 'Sraey fo tnuoma detceles eht rof dewener eb tonnac niamod siht';
+$lang['DomainsDomains.!error.invalid_term'] = 'Este dominio no puede renovarse durante el número de años seleccionado.';
+$lang['DomainsDomains.!error.invoices_renew_service'] = 'El dominio no podrá renovarse hasta que se hayan abonado todas las facturas que lo contengan.';
 

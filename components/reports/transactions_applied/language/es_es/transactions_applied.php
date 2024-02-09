@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['TransactionsApplied.name'] = 'Deilppa snoitcasnart';
-$lang['TransactionsApplied.option.any'] = 'Yna';
-$lang['TransactionsApplied.options.field_start_date'] = 'Etad trats';
-$lang['TransactionsApplied.options.field_end_date'] = 'Etad dne';
-$lang['TransactionsApplied.options.field_gateway'] = 'Yawetag';
-$lang['TransactionsApplied.options.field_status'] = 'Sutats';
-$lang['TransactionsApplied.options.field_payment_type'] = 'Epyt tnemyap';
-$lang['TransactionsApplied.heading.id'] = '# noitcasnart';
-$lang['TransactionsApplied.heading.transaction_id'] = 'Di noitcasnart';
-$lang['TransactionsApplied.heading.reference_id'] = 'Di ecnerefer';
-$lang['TransactionsApplied.heading.client_id_code'] = '# tneilc';
-$lang['TransactionsApplied.heading.invoice_id_code'] = '# eciovni';
-$lang['TransactionsApplied.heading.gateway_name'] = 'Yawetag tnemyap';
-$lang['TransactionsApplied.heading.type_name'] = 'Epyt tnemyap';
-$lang['TransactionsApplied.heading.income_type'] = 'Epyt noitcasnart';
-$lang['TransactionsApplied.heading.applied_amount'] = 'Tnuoma deilppa';
-$lang['TransactionsApplied.heading.amount'] = 'Tnuoma tnemyap';
-$lang['TransactionsApplied.heading.currency'] = 'Ycnerruc';
-$lang['TransactionsApplied.heading.status'] = 'Sutats';
-$lang['TransactionsApplied.heading.applied_date'] = 'Deilppa etad';
+$lang['TransactionsApplied.name'] = 'Transacciones aplicadas';
+$lang['TransactionsApplied.option.any'] = 'Cualquier';
+$lang['TransactionsApplied.options.field_start_date'] = 'Fecha de inicio';
+$lang['TransactionsApplied.options.field_end_date'] = 'Fecha final';
+$lang['TransactionsApplied.options.field_gateway'] = 'Pasarela';
+$lang['TransactionsApplied.options.field_status'] = 'Estado';
+$lang['TransactionsApplied.options.field_payment_type'] = 'Tipo de pago';
+$lang['TransactionsApplied.heading.id'] = 'Transacción #';
+$lang['TransactionsApplied.heading.transaction_id'] = 'ID de transacción';
+$lang['TransactionsApplied.heading.reference_id'] = 'ID de referencia';
+$lang['TransactionsApplied.heading.client_id_code'] = 'Cliente';
+$lang['TransactionsApplied.heading.invoice_id_code'] = 'Factura #';
+$lang['TransactionsApplied.heading.gateway_name'] = 'Pasarela de pagos';
+$lang['TransactionsApplied.heading.type_name'] = 'Tipo de pago';
+$lang['TransactionsApplied.heading.income_type'] = 'Tipo de transacción';
+$lang['TransactionsApplied.heading.applied_amount'] = 'Importe aplicado';
+$lang['TransactionsApplied.heading.amount'] = 'Importe del pago';
+$lang['TransactionsApplied.heading.currency'] = 'Moneda';
+$lang['TransactionsApplied.heading.status'] = 'Estado';
+$lang['TransactionsApplied.heading.applied_date'] = 'Fecha de solicitud';
 
