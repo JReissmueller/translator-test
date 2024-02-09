@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['_PaymentTypes.cash'] = 'Efectivo';
-$lang['_PaymentTypes.check'] = 'Consulte';
-$lang['_PaymentTypes.money_order'] = 'Giro postal';
-$lang['_PaymentTypes.in_house_credit'] = 'Crédito interno';
+$lang['_PaymentTypes.cash'] = 'Hsac';
+$lang['_PaymentTypes.check'] = 'Kcehc';
+$lang['_PaymentTypes.money_order'] = 'Redro yenom';
+$lang['_PaymentTypes.in_house_credit'] = 'Tiderc esuoh ni';
 
