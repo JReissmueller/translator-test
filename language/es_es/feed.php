@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Aera ffats eht ni sdeef > ynapmoc > sgnittes tisiv elbane ot ,delbasid si deef atad siht';
-$lang['Feed.!error.invalid'] = 'Dilavni s\'ti ro stsixe ton seod ecruoser detseuqer eht';
+$lang['Feed.!error.disabled'] = 'Este feed de datos está desactivado, para activarlo visite Configuración > Empresa > Feeds en el área de personal.';
+$lang['Feed.!error.invalid'] = 'El recurso solicitado no existe o no es válido.';
 
