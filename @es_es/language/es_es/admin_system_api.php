@@ -9,30 +9,30 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemApi.!notice.api_not_restrictive'] = 'ATENCIÓN Empresa es la empresa con la que el usuario se autentica al conectarse. El acceso a los datos de otra empresa no está restringido por las solicitudes de API que admiten dicho acceso.';
-$lang['AdminSystemApi.!success.key_added'] = 'El usuario de la API se ha añadido correctamente.';
-$lang['AdminSystemApi.!success.key_deleted'] = 'El usuario de la API se ha eliminado correctamente.';
-$lang['AdminSystemApi.!success.key_updated'] = 'El usuario de la API se ha actualizado correctamente.';
-$lang['AdminSystemApi.index.page_title'] = 'Configuración > Sistema > Acceso API';
-$lang['AdminSystemApi.index.boxtitle_api'] = 'Acceso API';
-$lang['AdminSystemApi.index.categorylink_keyadd'] = 'Añadir usuario API';
-$lang['AdminSystemApi.index.heading_user'] = 'Usuario';
-$lang['AdminSystemApi.index.heading_key'] = 'Clave';
-$lang['AdminSystemApi.index.heading_company'] = 'Empresa';
-$lang['AdminSystemApi.index.heading_date'] = 'Fecha de creación';
-$lang['AdminSystemApi.index.heading_options'] = 'Opciones';
-$lang['AdminSystemApi.index.option_edit'] = 'Editar';
-$lang['AdminSystemApi.index.option_delete'] = 'Borrar';
-$lang['AdminSystemApi.index.no_results'] = 'No hay usuarios de la API.';
-$lang['AdminSystemApi.index.confirm_delete'] = '¿Borrar realmente este usuario API?';
-$lang['AdminSystemApi.add.boxtitle_add'] = 'Añadir usuario API';
-$lang['AdminSystemApi.add.field_company'] = 'Empresa';
-$lang['AdminSystemApi.add.field_user'] = 'Usuario';
-$lang['AdminSystemApi.add.field_notes'] = 'Notas';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Añadir usuario';
-$lang['AdminSystemApi.edit.boxtitle_edit'] = 'Editar usuario API';
-$lang['AdminSystemApi.edit.field_company'] = 'Empresa';
-$lang['AdminSystemApi.edit.field_user'] = 'Usuario';
-$lang['AdminSystemApi.edit.field_notes'] = 'Notas';
-$lang['AdminSystemApi.edit.field_apisubmit'] = 'Actualizar usuario';
+$lang['AdminSystemApi.!notice.api_not_restrictive'] = 'Ssecca hcus troppus taht stseuqer ipa yb detcirtser ton si atad s\'ynapmoc rehto ot ssecca .gnitcennoc nehw htiw setacitnehtua resu eht ynapmoc eht si ynapmoc !gninraw';
+$lang['AdminSystemApi.!success.key_added'] = 'Dedda yllufsseccus saw resu ipa eht';
+$lang['AdminSystemApi.!success.key_deleted'] = 'Deteled yllufsseccus saw resu ipa eht';
+$lang['AdminSystemApi.!success.key_updated'] = 'Detadpu yllufsseccus saw resu ipa eht';
+$lang['AdminSystemApi.index.page_title'] = 'Ssecca ipa > metsys > sgnittes';
+$lang['AdminSystemApi.index.boxtitle_api'] = 'Ssecca ipa';
+$lang['AdminSystemApi.index.categorylink_keyadd'] = 'Resu ipa dda';
+$lang['AdminSystemApi.index.heading_user'] = 'Resu';
+$lang['AdminSystemApi.index.heading_key'] = 'Yek';
+$lang['AdminSystemApi.index.heading_company'] = 'Ynapmoc';
+$lang['AdminSystemApi.index.heading_date'] = 'Detaerc etad';
+$lang['AdminSystemApi.index.heading_options'] = 'Snoitpo';
+$lang['AdminSystemApi.index.option_edit'] = 'Tide';
+$lang['AdminSystemApi.index.option_delete'] = 'Eteled';
+$lang['AdminSystemApi.index.no_results'] = 'Sresu ipa on era ereht';
+$lang['AdminSystemApi.index.confirm_delete'] = '?resu ipa siht eteled yllaer';
+$lang['AdminSystemApi.add.boxtitle_add'] = 'Resu ipa dda';
+$lang['AdminSystemApi.add.field_company'] = 'Ynapmoc';
+$lang['AdminSystemApi.add.field_user'] = 'Resu';
+$lang['AdminSystemApi.add.field_notes'] = 'Seton';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Resu dda';
+$lang['AdminSystemApi.edit.boxtitle_edit'] = 'Resu ipa tide';
+$lang['AdminSystemApi.edit.field_company'] = 'Ynapmoc';
+$lang['AdminSystemApi.edit.field_user'] = 'Resu';
+$lang['AdminSystemApi.edit.field_notes'] = 'Seton';
+$lang['AdminSystemApi.edit.field_apisubmit'] = 'Resu etadpu';
 
