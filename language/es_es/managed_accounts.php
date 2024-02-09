@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.client.exists'] = 'Dedivorp sserdda liame eht ot dengissa tnuocca on si ereht';
-$lang['ManagedAccounts.!error.client_id.exists'] = 'Di tneilc dilavni';
-$lang['ManagedAccounts.!error.email.invitation'] = 'Tnuocca siht ot tnes neeb ydaerla sah noitativni na';
-$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Di noitativni dilavni';
-$lang['ManagedAccounts.!error.contact_id.exists'] = 'Di tcatnoc dilavni';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Tnuocca siht eganam ot dezirohtua ton era uoy';
-$lang['ManagedAccounts.!error.permissions.empty'] = 'Reganam eht ot noissimrep eno tsael ta ngissa ot deen uoy';
+$lang['ManagedAccounts.!error.client.exists'] = 'No hay ninguna cuenta asignada a la dirección de correo electrónico proporcionada.';
+$lang['ManagedAccounts.!error.client_id.exists'] = 'ID de cliente no válido.';
+$lang['ManagedAccounts.!error.email.invitation'] = 'Ya se ha enviado una invitación a esta cuenta.';
+$lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID de invitación no válido.';
+$lang['ManagedAccounts.!error.contact_id.exists'] = 'ID de contacto no válida.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'No está autorizado a gestionar esta cuenta.';
+$lang['ManagedAccounts.!error.permissions.empty'] = 'Debe asignar al menos un permiso al gestor.';
 
