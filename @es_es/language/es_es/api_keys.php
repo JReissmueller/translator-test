@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ApiKeys.!error.key.generate'] = 'No se ha podido generar la clave.';
-$lang['ApiKeys.!error.company_id.exists'] = 'La empresa indicada no existe.';
-$lang['ApiKeys.!error.user.format'] = 'Por favor, introduzca un usuario API de entre 3 y 64 caracteres de longitud.';
-$lang['ApiKeys.!error.user.valid'] = 'El usuario o la clave de la API no son válidos.';
-$lang['ApiKeys.!error.user.unique'] = 'El usuario API ya existe para la empresa indicada.';
+$lang['ApiKeys.!error.key.generate'] = 'Detareneg eb ot deliaf yek eht';
+$lang['ApiKeys.!error.company_id.exists'] = 'Tsixe ton seod nevig ynapmoc eht';
+$lang['ApiKeys.!error.user.format'] = 'Htgnel ni sretcarahc 46 dna 3 neewteb resu ipa na retne esaelp';
+$lang['ApiKeys.!error.user.valid'] = 'Dilavni eb ot sraeppa yek ro resu ipa eht';
+$lang['ApiKeys.!error.user.unique'] = 'Ynapmoc nevig eht rof stsixe ydaerla resu ipa eht';
 
