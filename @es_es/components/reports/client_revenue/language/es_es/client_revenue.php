@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientRevenue.name'] = 'Ingresos de clientes';
-$lang['ClientRevenue.description'] = 'Calcula los ingresos de una divisa para cada cliente sumando el importe pagado a todas las facturas asociadas al cliente.';
-$lang['ClientRevenue.option.any'] = 'Cualquier';
-$lang['ClientRevenue.options.currency'] = 'Moneda';
-$lang['ClientRevenue.options.field_start_date'] = 'Fecha de inicio';
-$lang['ClientRevenue.options.field_end_date'] = 'Fecha final';
-$lang['ClientRevenue.heading.client_id_code'] = 'ID de cliente';
-$lang['ClientRevenue.heading.client_name'] = 'Nombre del cliente';
-$lang['ClientRevenue.heading.company'] = 'Empresa';
-$lang['ClientRevenue.heading.total'] = 'Total';
+$lang['ClientRevenue.name'] = 'Eunever tneilc';
+$lang['ClientRevenue.description'] = 'Tneilc eht htiw detaicossa seciovni lla ot diap tnuoma eht gnilatot yb tneilc hcae rof ycnerruc a morf eunever setaluclac';
+$lang['ClientRevenue.option.any'] = 'Yna';
+$lang['ClientRevenue.options.currency'] = 'Ycnerruc';
+$lang['ClientRevenue.options.field_start_date'] = 'Etad trats';
+$lang['ClientRevenue.options.field_end_date'] = 'Etad dne';
+$lang['ClientRevenue.heading.client_id_code'] = 'Di tneilc';
+$lang['ClientRevenue.heading.client_name'] = 'Eman tneilc';
+$lang['ClientRevenue.heading.company'] = 'Ynapmoc';
+$lang['ClientRevenue.heading.total'] = 'Latot';
 
