@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.maintenance_heading'] = 'Edom ecnanetniam';
-$lang['ClientMaintenance.index.page_title'] = 'Ecnanetniam';
+$lang['ClientMaintenance.index.maintenance_heading'] = 'Modo de mantenimiento';
+$lang['ClientMaintenance.index.page_title'] = 'Mantenimiento';
 
