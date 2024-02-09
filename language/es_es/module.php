@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Module.!error.invalid'] = 'Deviecer saw esnopser ipa dezingocernu ro dilavni na';
-$lang['Module.!error.unsupported'] = 'Noitca taht troppus ton seod eludom eht';
-$lang['Module.!error.general'] = 'Eludom eht htiw tseuqer eht gnissecorp nehw derucco rorre na';
+$lang['Module.!error.general'] = 'Se ha producido un error al procesar la solicitud con el módulo.';
+$lang['Module.!error.invalid'] = 'Se ha recibido una respuesta de API no válida o no reconocida.';
+$lang['Module.!error.unsupported'] = 'El módulo no admite esa acción.';
 
