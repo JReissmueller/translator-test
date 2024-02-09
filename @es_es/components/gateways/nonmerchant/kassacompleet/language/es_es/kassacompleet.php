@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Kassacompleet.!error.api_key.empty'] = 'Introduzca una clave API';
-$lang['Kassacompleet.!error.api_key.valid'] = 'La clave API no es válida';
-$lang['Kassacompleet.name'] = 'Tarjeta de crédito/débito (Kassa Compleet)';
-$lang['Kassacompleet.description'] = 'Integración de Kassa Compleet para el tipo de pago Tarjeta de Crédito.';
-$lang['Kassacompleet.api_key'] = 'Clave API';
-$lang['Kassacompleet.tooltip.api_key'] = 'Para utilizar el modo de prueba, basta con introducir una clave API de una cuenta de prueba';
-$lang['Kassacompleet.buildprocess.submit'] = 'Pagar con Kassa Compleet';
+$lang['Kassacompleet.!error.api_key.empty'] = 'Yek ipa na retne esaelp';
+$lang['Kassacompleet.!error.api_key.valid'] = 'Dilavni si yek ipa';
+$lang['Kassacompleet.name'] = ')teelpmoc assak( drac tibed/tiderc';
+$lang['Kassacompleet.description'] = 'Epyt tnemyap drac tiderc eht rof noitargetni teelpmoc assak';
+$lang['Kassacompleet.api_key'] = 'Yek ipa';
+$lang['Kassacompleet.tooltip.api_key'] = 'Tnuocca tset a morf yek ipa na retne ylpmis ,edom tset esu ot redro ni';
+$lang['Kassacompleet.buildprocess.submit'] = 'Teelpmoc assak htiw yap';
 
