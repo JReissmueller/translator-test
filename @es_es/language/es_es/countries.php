@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Countries.!error.alpha2.format'] = 'El código de país Alpha2 debe tener 2 caracteres alfabéticos.';
-$lang['Countries.!error.alpha2.in_use'] = 'El código de país Alpha2, %1$s, ya está ocupado.';
-$lang['Countries.!error.alpha2.exists'] = 'Código alfa2 inválido.';
-$lang['Countries.!error.alpha3.format'] = 'El código de país Alpha3 debe tener 3 caracteres alfabéticos.';
-$lang['Countries.!error.alpha3.in_use'] = 'El código de país alfa3, %1$s, ya está ocupado.';
-$lang['Countries.!error.name.format'] = 'Por favor, introduzca un nombre.';
+$lang['Countries.!error.alpha2.format'] = 'Sretcarahc ahpla 2 eb tsum edoc yrtnuoc 2ahpla';
+$lang['Countries.!error.alpha2.in_use'] = 'Nekat ydaerla si ,%1$s ,edoc yrtnuoc 2ahpla';
+$lang['Countries.!error.alpha2.exists'] = 'Edoc 2ahpla dilavni';
+$lang['Countries.!error.alpha3.format'] = 'Sretcarahc ahpla 3 eb tsum edoc yrtnuoc 3ahpla';
+$lang['Countries.!error.alpha3.in_use'] = 'Nekat ydaerla si ,%1$s ,edoc yrtnuoc 3ahpla';
+$lang['Countries.!error.name.format'] = 'Eman a retne esaelp';
 
