@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CustomReport.name'] = 'Troper motsuc';
-$lang['CustomReports.options.field_report'] = 'Troper';
-$lang['CustomReports.options.field_report_select'] = '-- tceles esaelp --';
-$lang['CustomReport.!error.field'] = 'Dilav ton si %1$s';
+$lang['CustomReport.name'] = 'Informe personalizado';
+$lang['CustomReports.options.field_report'] = 'Informe';
+$lang['CustomReports.options.field_report_select'] = '-- Seleccione --';
+$lang['CustomReport.!error.field'] = '%1$s no es válido.';
 
