@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionGroups.!error.company_id.exists'] = 'Di ynapmoc dilav a yficeps esaelp';
-$lang['PackageOptionGroups.!error.name.empty'] = 'Eman puorg a yficeps esaelp';
-$lang['PackageOptionGroups.!error.name.length'] = 'Htgnel ni sretcarahc 821 deecxe ton yam eman puorg eht';
-$lang['PackageOptionGroups.!error.group_id.exists'] = 'Di puorg noitpo egakcap dilavni';
-$lang['PackageOptionGroups.!error.hide_options.valid'] = '1 ro 0 ot tes eb tsum snoitpo edih ot rehtehw';
-$lang['PackageOptionGroups.!error.hidden.valid'] = '1 ro 0 ot tes eb tsum puorg noitpo siht edih ot rehtehw';
+$lang['PackageOptionGroups.!error.company_id.exists'] = 'Especifique una identificación de empresa válida.';
+$lang['PackageOptionGroups.!error.name.empty'] = 'Especifique un nombre de grupo.';
+$lang['PackageOptionGroups.!error.name.length'] = 'El nombre del grupo no puede tener más de 128 caracteres.';
+$lang['PackageOptionGroups.!error.group_id.exists'] = 'ID de grupo de opciones de paquete no válido.';
+$lang['PackageOptionGroups.!error.hide_options.valid'] = 'La opción de ocultar opciones debe ser 0 o 1.';
+$lang['PackageOptionGroups.!error.hidden.valid'] = 'Si se desea ocultar este grupo de opciones debe establecerse en 0 o 1.';
 
