@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageRevenue.name'] = 'Eunever egakcap';
-$lang['PackageRevenue.description'] = 'Egakcap eht htiw detaicossa smeti enil eciovni diap eht gnilatot yb egakcap hcae rof ycnerruc a morf eunever setaluclac';
-$lang['PackageRevenue.option.any'] = 'Yna';
-$lang['PackageRevenue.options.currency'] = 'Ycnerruc';
-$lang['PackageRevenue.options.field_start_date'] = 'Etad trats desolc eciovni';
-$lang['PackageRevenue.options.field_end_date'] = 'Etad dne desolc eciovni';
-$lang['PackageRevenue.heading.package_name'] = 'Egakcap';
-$lang['PackageRevenue.heading.status'] = 'Sutats';
-$lang['PackageRevenue.heading.module_name'] = 'Eludom';
-$lang['PackageRevenue.heading.service_count'] = 'Stinu';
-$lang['PackageRevenue.heading.package_revenue'] = 'Eunever';
-$lang['PackageRevenue.heading.tax'] = 'Xat';
+$lang['PackageRevenue.name'] = 'Ingresos por paquetes';
+$lang['PackageRevenue.description'] = 'Calcula los ingresos de una divisa para cada paquete totalizando las partidas de factura pagadas asociadas al paquete.';
+$lang['PackageRevenue.option.any'] = 'Cualquier';
+$lang['PackageRevenue.options.currency'] = 'Moneda';
+$lang['PackageRevenue.options.field_start_date'] = 'Factura cerrada Fecha de inicio';
+$lang['PackageRevenue.options.field_end_date'] = 'Fecha de cierre de la factura';
+$lang['PackageRevenue.heading.package_name'] = 'Paquete';
+$lang['PackageRevenue.heading.status'] = 'Estado';
+$lang['PackageRevenue.heading.module_name'] = 'Módulo';
+$lang['PackageRevenue.heading.service_count'] = 'Unidades';
+$lang['PackageRevenue.heading.package_revenue'] = 'Ingresos';
+$lang['PackageRevenue.heading.tax'] = 'Impuesto';
 
