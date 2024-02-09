@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleManager.!error.company_id.valid'] = 'El ID de la empresa no es válido.';
-$lang['ModuleManager.!error.class.valid'] = 'La clase no es válida.';
-$lang['ModuleManager.!error.name.valid'] = 'El nombre no es válido.';
-$lang['ModuleManager.!error.version.valid'] = 'La versión no es válida.';
-$lang['ModuleManager.!error.type_id.valid'] = 'El ID de tipo no es válido.';
-$lang['ModuleManager.!error.name.empty'] = 'Debe especificar un nombre para el grupo.';
-$lang['ModuleManager.!error.module_rows[].valid'] = 'Una o más de las filas especificadas no pertenecen a este módulo.';
-$lang['ModuleManager.!error.force_limits.valid'] = 'El valor de si se deben aplicar límites estrictos debe ser 0 ó 1.';
-$lang['ModuleManager.!error.module_row_id.assigned_service'] = 'La fila no puede borrarse porque pertenece a uno o varios servicios.';
-$lang['ModuleManager.!error.module_row_id.assigned_package'] = 'La fila no se puede eliminar porque pertenece a uno o varios paquetes.';
-$lang['ModuleManager.!error.module_group_id.assigned_package'] = 'El grupo no se puede eliminar porque pertenece a uno o varios paquetes.';
-$lang['ModuleManager.!error.module_id.assigned_package'] = 'El módulo no puede ser desinstalado porque es utilizado por uno o más paquetes activos.';
-$lang['ModuleManager.!error.module_id.assigned_service'] = 'El módulo no puede ser desinstalado porque es utilizado por uno o más servicios no cancelados.';
+$lang['ModuleManager.!error.company_id.valid'] = 'Dilavni si di ynapmoc';
+$lang['ModuleManager.!error.class.valid'] = 'Dilavni si ssalc';
+$lang['ModuleManager.!error.name.valid'] = 'Dilavni si eman';
+$lang['ModuleManager.!error.version.valid'] = 'Dilavni si noisrev';
+$lang['ModuleManager.!error.type_id.valid'] = 'Dilavni si di epyt';
+$lang['ModuleManager.!error.name.empty'] = 'Puorg eht rof eman a yficeps tsum uoy';
+$lang['ModuleManager.!error.module_rows[].valid'] = 'Eludom siht ot gnoleb ton od deificeps swor eht fo erom ro eno';
+$lang['ModuleManager.!error.force_limits.valid'] = '1 ro 0 ot tes eb tsum stimil tcirts ecrofne ot rehtehw';
+$lang['ModuleManager.!error.module_row_id.assigned_service'] = 'Secivres erom ro eno ot sgnoleb ti esuaceb deteled eb ton nac wor eht';
+$lang['ModuleManager.!error.module_row_id.assigned_package'] = 'Segakcap erom ro eno ot sgnoleb ti esuaceb deteled eb ton nac wor eht';
+$lang['ModuleManager.!error.module_group_id.assigned_package'] = 'Segakcap erom ro eno ot sgnoleb ti esuaceb deteled eb ton nac puorg eht';
+$lang['ModuleManager.!error.module_id.assigned_package'] = 'Segakcap evitca erom ro eno yb desu si ti esuaceb dellatsninu eb ton nac eludom eht';
+$lang['ModuleManager.!error.module_id.assigned_service'] = 'Secivres delecnacnu erom ro eno yb desu si ti esuaceb dellatsninu eb ton nac eludom eht';
 
