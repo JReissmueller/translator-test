@@ -9,25 +9,25 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Authorize_net.name'] = 'Autorizar.Net';
-$lang['Authorize_net.description'] = 'Procesamiento rápido y fiable de tarjetas de crédito y ACH';
-$lang['Authorize_net.login_id'] = 'Identificador';
-$lang['Authorize_net.transaction_key'] = 'Clave de transacción';
-$lang['Authorize_net.api'] = 'API de pago';
-$lang['Authorize_net.test_mode'] = 'Modo de prueba';
-$lang['Authorize_net.test_mode_note'] = 'La función de modo de prueba sólo es compatible con AIM. Para probar las transacciones de CIM, debe activar el modo de prueba desde su cuenta de Authorize.net.';
-$lang['Authorize_net.dev_mode'] = 'Modo Desarrollador';
-$lang['Authorize_net.dev_mode_note'] = 'Al activar esta opción, las transacciones se publicarán en el entorno para desarrolladores de Authorize.net. Debe tener una cuenta de prueba de desarrollador para poder utilizar este entorno.';
-$lang['Authorize_net.apis_aim'] = 'AIM (por defecto)';
-$lang['Authorize_net.apis_cim'] = 'CIM (debe estar habilitado por Authorize.Net)';
-$lang['Authorize_net.validation_mode'] = 'Modo de validación de la cuenta de pago';
-$lang['Authorize_net.validation_note'] = 'Controla el tipo de validación que se realiza cuando se almacena una cuenta de pago utilizando CIM. Ninguno" no realiza ninguna validación adicional. Prueba\' emite una transacción de prueba que no aparece en el extracto del cliente pero que generará un correo electrónico para el comerciante. Real" procesa una transacción de 0,00 USD o 0,01 USD que se anula inmediatamente. Consulte a su proveedor de cuentas comerciales antes de establecer este valor en "Real", ya que puede estar sujeto a comisiones.';
-$lang['Authorize_net.validation_modes_none'] = 'Ninguno';
-$lang['Authorize_net.validation_modes_test'] = 'Prueba';
-$lang['Authorize_net.validation_modes_live'] = 'En directo';
-$lang['Authorize_net.!error.login_id.format'] = 'El ID de inicio de sesión no debe tener más de 20 caracteres y no puede estar vacío.';
-$lang['Authorize_net.!error.transaction_key.format'] = 'La clave de la transacción debe tener 16 caracteres de longitud.';
-$lang['Authorize_net.!error.test_mode.valid'] = 'El modo de prueba debe establecerse en "true" si se da.';
-$lang['Authorize_net.!error.dev_mode.valid'] = 'El modo desarrollador debe ser "true" si se indica.';
-$lang['Authorize_net.!error.card_number.missing'] = 'La fecha de caducidad no puede actualizarse sin el número completo de la tarjeta.';
+$lang['Authorize_net.name'] = 'Ten.ezirohtua';
+$lang['Authorize_net.description'] = 'Gnissecorp hca dna drac tiderc tsaf dna elbailer';
+$lang['Authorize_net.login_id'] = 'Di nigol';
+$lang['Authorize_net.transaction_key'] = 'Yek noitcasnart';
+$lang['Authorize_net.api'] = 'Ipa tnemyap';
+$lang['Authorize_net.test_mode'] = 'Edom tset';
+$lang['Authorize_net.test_mode_note'] = 'Tnuocca ten.ezirohtua ruoy nihtiw morf edom tset elbane tsum uoy snoitcasnart mic tset ot .mia yb detroppus ylno si erutaef edom tset eht';
+$lang['Authorize_net.dev_mode'] = 'Edom repoleved';
+$lang['Authorize_net.dev_mode_note'] = 'Tnemnorivne siht esu ot redro ni tnuocca tset repoleved a evah tsum uoy .tnemnorivne repoleved ten.ezirohtua eht ot snoitcasnart tsop lliw noitpo siht gnilbane';
+$lang['Authorize_net.apis_aim'] = ')tluafed( mia';
+$lang['Authorize_net.apis_cim'] = ')ten.ezirohtua yb delbane eb tsum( mic';
+$lang['Authorize_net.validation_mode'] = 'Edom noitadilav tnuocca tnemyap';
+$lang['Authorize_net.validation_note'] = 'Seef ot tcejbus eb yam uoy sa \'evil\' ot eulav siht gnittes erofeb redivorp tnuocca tnahcrem ruoy tlusnoc .dediov yletaidemmi si taht noitcasnart 10.0$ ro 00.0$ a sessecorp \'evil\' .tnahcrem eht ot liame na etareneg lliw tub tnemetats s\'remotsuc eht no raeppa ton seod taht noitcasnart tset a seussi \'tset\' .noitadilav lanoitidda on smrofrep \'enon\' .mic gnisu derots si tnuocca tnemyap a nehw demrofrep si noitadilav fo epyt tahw slortnoc siht';
+$lang['Authorize_net.validation_modes_none'] = 'Enon';
+$lang['Authorize_net.validation_modes_test'] = 'Tset';
+$lang['Authorize_net.validation_modes_live'] = 'Evil';
+$lang['Authorize_net.!error.login_id.format'] = 'Ytpme eb ton yam dna sretcarahc 02 naht erom on eb dluohs di nigol';
+$lang['Authorize_net.!error.transaction_key.format'] = 'Htgnel ni sretcarahc 61 eb tsum yek noitcasnart eht';
+$lang['Authorize_net.!error.test_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom tset';
+$lang['Authorize_net.!error.dev_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom repoleved';
+$lang['Authorize_net.!error.card_number.missing'] = 'Rebmun drac lluf eht tuohtiw detadpu eb tonnac etad noitaripxe eht';
 
