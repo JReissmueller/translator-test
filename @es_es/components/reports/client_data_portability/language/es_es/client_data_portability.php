@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDataPortability.name'] = 'Portabilidad de los datos de los clientes';
-$lang['ClientDataPortability.options.field_client_id'] = 'ID de cliente';
-$lang['ClientDataPortability.!error.client_id'] = 'El ID de cliente no es válido.';
-$lang['ClientDataPortability.!tooltip.client_id'] = 'Es el identificador interno del cliente que aparece en la URL cuando se visualiza el perfil de un cliente.';
+$lang['ClientDataPortability.name'] = 'Ytilibatrop atad tneilc';
+$lang['ClientDataPortability.options.field_client_id'] = 'Di tneilc';
+$lang['ClientDataPortability.!error.client_id'] = 'Dilav ton si di tneilc';
+$lang['ClientDataPortability.!tooltip.client_id'] = 'Eliforp tneilc a weiv uoy nehw lru eht ni nwohs di tneilc lanretni eht si siht';
 
