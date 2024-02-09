@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Cornerstone.!error.security_key.empty'] = 'Introduzca su clave de seguridad.';
-$lang['Cornerstone.description'] = 'Cornerstone es una de las principales organizaciones de ventas independientes de propiedad y gestión cristianas en el sector del procesamiento comercial en EE.UU.';
-$lang['Cornerstone.name'] = 'Piedra angular';
-$lang['Cornerstone.security_key'] = 'Clave de seguridad';
+$lang['Cornerstone.!error.security_key.empty'] = 'Yek ytiruces ruoy retne esaelp';
+$lang['Cornerstone.name'] = 'Enotsrenroc';
+$lang['Cornerstone.description'] = 'Asu eht ni yrtsudni gnissecorp tnahcrem eht ni snoitazinagro selas tnednepedni detarepo dna denwo naitsirhc gnidael eht fo eno si enotsrenroc';
+$lang['Cornerstone.security_key'] = 'Yek ytiruces';
 
