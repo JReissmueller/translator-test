@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PterodactylService.!error.server_name.empty'] = 'Revres eht rof eman a tes esaelp';
-$lang['PterodactylService.service_fields.server_name'] = 'Eman revres';
-$lang['PterodactylService.service_fields.tooltip.server_name'] = 'Revres eht fo eman eht';
-$lang['PterodactylService.service_fields.server_description'] = ')lanoitpo( noitpircsed revres';
-$lang['PterodactylService.service_fields.tooltip.server_description'] = 'Revres eht fo noitpircsed eht';
-$lang['PterodactylService.service_fields.server_id'] = ')lanoitpo( di revres';
-$lang['PterodactylService.service_fields.tooltip.server_id'] = 'Revres tnetsixe-erp a ot ecivres siht gniknil era uoy nehw desu eb ylno dluohs siht .lenap lytcadoretp eht ni revres eht fo di eht';
-$lang['PterodactylService.service_fields.optional'] = ')lanoitpo( %1$s';
+$lang['PterodactylService.!error.server_name.empty'] = 'Introduzca un nombre para el servidor.';
+$lang['PterodactylService.service_fields.server_name'] = 'Nombre del servidor';
+$lang['PterodactylService.service_fields.tooltip.server_name'] = 'El nombre del servidor.';
+$lang['PterodactylService.service_fields.server_description'] = 'Descripción del servidor (opcional)';
+$lang['PterodactylService.service_fields.tooltip.server_description'] = 'La descripción del servidor.';
+$lang['PterodactylService.service_fields.server_id'] = 'ID de servidor (opcional)';
+$lang['PterodactylService.service_fields.tooltip.server_id'] = 'El ID del servidor en el panel Pterodáctilo. Esto sólo debe utilizarse cuando se está vinculando este servicio a un servidor preexistente.';
+$lang['PterodactylService.service_fields.optional'] = '%1$s (Opcional)';
 
