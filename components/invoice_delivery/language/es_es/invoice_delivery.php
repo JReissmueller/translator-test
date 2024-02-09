@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.!error.libxml_required'] = 'Yreviled eciovni rof deriuqer era snoisnetxe lmxelpmis dna lmxbil eht';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = '%1$s# eciovni';
-$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = '%1$s# eciovni';
+$lang['InvoiceDelivery.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para la entrega de facturas.';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Factura #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'Factura #%1$s';
 
