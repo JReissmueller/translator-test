@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.es_es
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Detadpu yllufsseccus neeb sah dleif motsuc tneilc eht';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Detaerc yllufsseccus neeb sah dleif motsuc tneilc eht';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Deteled yllufsseccus neeb sah dleif motsuc tneilc eht';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Detadpu yllufsseccus neeb evah sdleif deriuqer eht';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Detadpu yllufsseccus neeb evah sgnittes lareneg eht';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'Ynapmoc eht morf sgnittes rieht tirehni taht spuorg tneilc ot ylppa ylno sgnittes eseht :eton';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = '}mun{ niatnoc tsum tamrof di tneilc eht';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Atad yna sniatnoc ti fi tneilc eht yb deifidom eb tonnac dleif eht ,dekcehc fi';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Dleif siht gniriuqer ton dnemmocer ew .sliated tcatnoc rieht evas ot elbanu eb dluow seirtnuoc esoht ni stneilc .setats yna evah ton od seirtnuoc emos .detceles eb ecnivorp/etats a gniriuqer nehw noituac esu';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Tcatnoc rehtona sa sserdda liame emas eht evah nac epyt yna fo stcatnoc on snaem stcatnoc lla .sserdda liame emas eht evah nac )stneilc .e.i( stcatnoc yramirp owt on snaem stcatnoc yramirp .stcatnoc rof sesserdda liame stcirtser';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Emanresu tnerruc rieht htiw nigol llits nac stneilc gnitsixe .nwo rieht gninifed naht rehtar emanresu rieht sa sserdda liame rieht esu tsum stneilc';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Deifirev era yeht litnu eliforp stneilc eht no raeppa lliw eciton a .sserdda liame rieht segnahc tneilc a ro detaerc si nigol wen a nehw liame noitacifirev liame na dnes ot kcehc';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Eulav di s\'tneilc eht si 0051 erehw 0051-cba fo di tneilc a ni tluser lliw }mun{-cba fo eulav a .di tneilc eht fo tamrof eht si tamrof di tneilc';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Tneilc detaerc yltnecer tsom eht fo eulav eht naht ssel si ti sselnu ,eulav siht evah lliw stneilc wen .s\'di tneilc rof eulav gnitrats eht si trats di tneilc';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Eulav siht yb tnemercni lliw srebmun sdi tneilc tneuqesbus';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Puorg tneilc detceles eht fo s\'rebmem ot ylppa ylno lliw dleif motsuc eht';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Noitinifed egaugnal a eb yam ti .dleif siht rof eman yalpsid eht si siht';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Elif egaugnal motsuc eht ni dleif motsuc siht rof noitinifed egaugnal a dedda evah uoy fi xob siht kcehc ylno';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = ')]smret[ .e.i( stekcarb erauqs edisni knil eht ylppa ot tnaw uoy txet eht esolcne .dleif eht fo eman eht otni detresni eb nac taht knil motsuc a';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Epyt mrof detceles eht sa raeppa lliw dleif motsuc eht';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Dleif siht etadpu dna ees ot stneilc wolla ot kcehc';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Eulav tluafed dengissa rieht ot yllacitamotua tes eb lliw sdleif ylno-daer .tneilc eht yb elbaegnahcnu dleif motsuc siht ekam lliw xob siht gnikcehc';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Dleif siht dilav ot noisserpxe raluger motsuc a esu ot "xeger motsuc" tceles .dleif siht rof eulav yna tpecca ot "on" tceles .snoitpo fo tsil eht ni raeppa tsum noitpo eht sepyt nwod pord rof ,dleif siht rof nevig si eulav a taht erusne ot "sey" tceles';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Ereh dleif siht rof etadilav ot noisserpxe raluger motsuc eht retne ."xeger motsuc" ot tes si "deriuqer" fi raeppa lliw noitpo siht';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Noitamrofni gniyfitnedi yllanosrep ro evitisnes yna gnirots fi dednemmocer ylhgih si siht .detpyrcne eulav eht erots ot xob siht kcehc';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Dekcehc si xobkcehc eht nehw dettimbus eulav eht';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Tneilc a rof dedda si dleif motsuc siht nehw noitpo siht rof tes eulav tluafed eht eb lliw ereh deretne txet eht';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Tneilc a rof dedda si dleif motsuc siht nehw tluafed yb dekcehc eb lliw xobkcehc siht ,dekcehc fi';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Tneilc a rof dedda si noitpo siht nehw detceles eulav tluafed eht eb lliw eulav noitpo dekcehc eht';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Lareneg > snoitpo tneilc > ynapmoc > sgnittes';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Sgnittes tneilc lareneg';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Sesserdda liame tcatnoc euqinu ecrofne';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- enon --';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Stcatnoc yramirp';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Stcatnoc lla';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Semanresu liame ecrof';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Noitacifirev liame elbane';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Tamrof di tneilc';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Eulav trats di tneilc';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Eulav tnemercni di tneilc';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Stneilc deifirevnu morf stnemyap tneverp';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Timbus';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Esworb > sdleif motsuc tneilc > snoitpo tneilc > ynapmoc > sgnittes';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Sdleif motsuc tneilc esworb';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Dleif etaerc';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Eman';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Epyt';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Deriuqer';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Stneilc ot elbisiv';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Stneilc rof ylno daer';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Snoitpo';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Tide';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Eteled';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = '?dleif motsuc siht eteled ot tnaw uoy erus uoy era .puorg siht nihtiw tneilc hcae rof ti rof derots atad lla dna yna eteled lliw dleif motsuc siht gniteled';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Sdleif motsuc on era ereht';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Dleif motsuc dda > sdleif motsuc tneilc > snoitpo tneilc > ynapmoc > sgnittes';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Dleif motsuc dda';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Puorg tneilc';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Eman';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Noitinifed egaugnal a si eman';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Knil';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Epyt';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Stneilc ot elbisiv';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Stneilc rof ylno daer';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Deriuqer';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Xeger motsuc';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Seulav tpyrcne';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Dleif motsuc dda';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Eulav';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Dekcehc eulav tluafed';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Eulav txet tluafed';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Noitamrofni tnuocca rieht etadpu ro retsiger ot elbanu gnieb stneilc ni tluser lliw stneilc ot elbisiv ti gnikam ton elihw dleif siht gniriuqer';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Noitpo lanoitidda dda';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Eulav';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Eman noitpo';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Tluafed';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Evomer';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Dleif motsuc tide > sdleif motsuc tneilc > snoitpo tneilc > ynapmoc > sgnittes';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Dleif motsuc tide';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Eman';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Noitinifed egaugnal a si eman';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Knil';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Epyt';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Stneilc ot elbisiv';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Stneilc rof ylno daer';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Deriuqer';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Xeger motsuc';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Seulav tpyrcne';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Dleif motsuc tide';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Eulav';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Dekcehc eulav tluafed';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Eulav txet tluafed';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Noitpo lanoitidda dda';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Eulav';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Eman noitpo';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Tluafed';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Evomer';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'On';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Sey';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Xeger motsuc';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Sdleif tneilc deriuqer > sdleif motsuc tneilc > snoitpo tneilc > ynapmoc > sgnittes';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Sdleif tneilc deriuqer';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Tcatnoc ro tneilc a gnitadpu ro gnitaerc nehw deriuqer eb dluohs taht sdleif eht kcehc';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Dleif';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Deriuqer';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Wohs';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Ylno daer';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Eman tsrif';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Eman tsal';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Gro/ynapmoc';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Eltit';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = '1 sserdda';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = '2 sserdda';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Ytic';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Yrtnuoc';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Ecnivorp/etats';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Edoc latsop/piz';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Liame';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Enohp';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Xaf';
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Sgnittes etadpu';
+

@@ -1,0 +1,131 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.es_es
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.name'] = 'Gifnocpsi';
+$lang['Ispconfig.description'] = 'Lenap lortnoc eno morf srevres elpitlum gniganam fo elbapac si hcihw xunil rof lenap ecruos nepo na si 3 gifnocpsi';
+$lang['Ispconfig.module_row'] = 'Revres';
+$lang['Ispconfig.module_row_plural'] = 'Srevres';
+$lang['Ispconfig.module_group'] = 'Puorg revres';
+$lang['Ispconfig.tab_stats'] = 'Scitsitats';
+$lang['Ispconfig.tab_client_stats'] = 'Scitsitats';
+$lang['Ispconfig.tab_client_actions'] = 'Snoitca';
+$lang['Ispconfig.add_module_row'] = 'Revres dda';
+$lang['Ispconfig.add_module_group'] = 'Puorg revres dda';
+$lang['Ispconfig.manage.module_rows_title'] = 'Srevres';
+$lang['Ispconfig.manage.module_groups_title'] = 'Spuorg revres';
+$lang['Ispconfig.manage.module_rows_heading.name'] = 'Lebal revres';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = 'Emantsoh';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = 'Stnuocca';
+$lang['Ispconfig.manage.module_rows_heading.options'] = 'Snoitpo';
+$lang['Ispconfig.manage.module_groups_heading.name'] = 'Eman puorg';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = 'Tnuoc revres';
+$lang['Ispconfig.manage.module_groups_heading.options'] = 'Snoitpo';
+$lang['Ispconfig.manage.module_rows.count'] = '%2$s / %1$s';
+$lang['Ispconfig.manage.module_rows.edit'] = 'Tide';
+$lang['Ispconfig.manage.module_groups.edit'] = 'Tide';
+$lang['Ispconfig.manage.module_rows.delete'] = 'Eteled';
+$lang['Ispconfig.manage.module_groups.delete'] = 'Eteled';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = '?revres siht eteled ot tnaw uoy erus uoy era';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = '?puorg revres siht eteled ot tnaw uoy erus uoy era';
+$lang['Ispconfig.manage.module_rows_no_results'] = 'Srevres on era ereht';
+$lang['Ispconfig.manage.module_groups_no_results'] = 'Spuorg revres on era ereht';
+$lang['Ispconfig.order_options.first'] = 'Revres lluf-non tsrif';
+$lang['Ispconfig.order_options.roundrobin'] = 'Srevres gnoma etubirtsid ylneve';
+$lang['Ispconfig.add_row.box_title'] = 'Revres gifnocpsi dda';
+$lang['Ispconfig.add_row.basic_title'] = 'Sgnittes cisab';
+$lang['Ispconfig.add_row.name_servers_title'] = 'Srevres eman';
+$lang['Ispconfig.add_row.notes_title'] = 'Seton';
+$lang['Ispconfig.add_row.name_server_btn'] = 'Revres eman lanoitidda dda';
+$lang['Ispconfig.add_row.name_server_col'] = 'Revres eman';
+$lang['Ispconfig.add_row.name_server_host_col'] = 'Emantsoh';
+$lang['Ispconfig.add_row.name_server'] = '%1$s revres eman';
+$lang['Ispconfig.add_row.remove_name_server'] = 'Evomer';
+$lang['Ispconfig.add_row.add_btn'] = 'Revres dda';
+$lang['Ispconfig.edit_row.box_title'] = 'Revres gifnocpsi tide';
+$lang['Ispconfig.edit_row.basic_title'] = 'Sgnittes cisab';
+$lang['Ispconfig.edit_row.name_servers_title'] = 'Srevres eman';
+$lang['Ispconfig.edit_row.notes_title'] = 'Seton';
+$lang['Ispconfig.edit_row.name_server_btn'] = 'Revres eman lanoitidda dda';
+$lang['Ispconfig.edit_row.name_server_col'] = 'Revres eman';
+$lang['Ispconfig.edit_row.name_server_host_col'] = 'Emantsoh';
+$lang['Ispconfig.edit_row.name_server'] = '%1$s revres eman';
+$lang['Ispconfig.edit_row.remove_name_server'] = 'Evomer';
+$lang['Ispconfig.edit_row.add_btn'] = 'Revres tide';
+$lang['Ispconfig.row_meta.server_name'] = 'Lebal revres';
+$lang['Ispconfig.row_meta.host_name'] = 'Emantsoh';
+$lang['Ispconfig.row_meta.port'] = 'Trop';
+$lang['Ispconfig.row_meta.default_port'] = '0808';
+$lang['Ispconfig.row_meta.user_name'] = 'Eman resu';
+$lang['Ispconfig.row_meta.password'] = 'Drowssap';
+$lang['Ispconfig.row_meta.use_ssl'] = ')dednemmocer( ipa eht ot gnitcennoc nehw lss esu';
+$lang['Ispconfig.row_meta.account_limit'] = 'Timil tnuocca';
+$lang['Ispconfig.package_fields.package'] = 'Egakcap gifnocpsi';
+$lang['Ispconfig.package_fields.php_options'] = 'Snoitpo php';
+$lang['Ispconfig.package_fields.ssh_options'] = 'Snoitpo hss';
+$lang['Ispconfig.service_field.domain'] = 'Niamod';
+$lang['Ispconfig.service_field.username'] = 'Emanresu';
+$lang['Ispconfig.service_field.password'] = 'Drowssap';
+$lang['Ispconfig.tab_stats.info_title'] = 'Noitamrofni';
+$lang['Ispconfig.tab_stats.info_heading.field'] = 'Dleif';
+$lang['Ispconfig.tab_stats.info_heading.value'] = 'Eulav';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = 'Atouq bew';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = 'Atouq htdiwdnab';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'Timil sresu ptf';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = 'Timil sniamod bew';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = 'Timil sniamodbus';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = 'Timil niamod saila';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'Timil sresu vadbew';
+$lang['Ispconfig.tab_stats.info.limit_database'] = 'Timil sesabatad';
+$lang['Ispconfig.tab_client_actions.change_password'] = 'Drowssap egnahc';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = 'Drowssap';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = 'Drowssap etadpu';
+$lang['Ispconfig.tab_client_stats.info_title'] = 'Noitamrofni';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = 'Dleif';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = 'Eulav';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = 'Atouq bew';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = 'Atouq htdiwdnab';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'Timil sresu ptf';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = 'Timil sniamod bew';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = 'Timil sniamodbus';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = 'Timil niamod saila';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'Timil sresu vadbew';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = 'Timil sesabatad';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = ')etad ot htnom( egasu htdiwdnab';
+$lang['Ispconfig.tab_client_stats.disk_title'] = 'Egasu ksid';
+$lang['Ispconfig.tab_client_stats.usage'] = ')bm %2$s/bm %1$s(';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = ')';
+$lang['Ispconfig.service_info.username'] = 'Emanresu';
+$lang['Ispconfig.service_info.password'] = 'Drowssap';
+$lang['Ispconfig.service_info.server'] = 'Revres';
+$lang['Ispconfig.service_info.options'] = 'Snoitpo';
+$lang['Ispconfig.service_info.option_login'] = 'Ni gol';
+$lang['Ispconfig.service_field.tooltip.username'] = 'Eno etareneg yllacitamotua ot knalb emanresu eht evael yam uoy';
+$lang['Ispconfig.service_field.tooltip.password'] = 'Eno etareneg yllacitamotua ot knalb drowssap eht evael yam uoy';
+$lang['Ispconfig.!error.server_name_valid'] = 'Lebal revres a retne tsum uoy';
+$lang['Ispconfig.!error.host_name_valid'] = 'Dilavni eb ot sraeppa emantsoh eht';
+$lang['Ispconfig.!error.port_format'] = 'Rebmun a eb tsum trop eht';
+$lang['Ispconfig.!error.user_name_valid'] = 'Dilavni eb ot sraeppa eman resu eht';
+$lang['Ispconfig.!error.remote_password_valid'] = 'Dilavni eb ot sraeppa drowssap eht';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = 'Tcerroc era drowssap dna ,eman resu ,emantsoh eht taht erusne ot kcehc esaelp .dehsilbatse eb ton dluoc revres eht ot noitcennoc a';
+$lang['Ispconfig.!error.account_limit_valid'] = 'Eulav regetni emos ot tes ro )stnuocca detimilnu rof( knalb tfel eb tsum timil tnuocca';
+$lang['Ispconfig.!error.name_servers_valid'] = 'Dilavni era deretne srevres eman eht fo erom ro eno';
+$lang['Ispconfig.!error.name_servers_count'] = 'Srevres eman 2 tsael ta enifed tsum uoy';
+$lang['Ispconfig.!error.meta[package].empty'] = 'Deriuqer si egakcap gifnocpsi a';
+$lang['Ispconfig.!error.api.internal'] = 'Tseuqer eht ot dnopser ton did revres eht ro ,derrucco rorre lanretni na';
+$lang['Ispconfig.!error.module_row.missing'] = 'Elbaliavanu si wor eludom eht .derrucco rorre lanretni na';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = 'Moc.niamod .g.e ,eman niamod dilav a retne esaelp';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = '\'tset\' htiw trats ton nac eman niamod';
+$lang['Ispconfig.!error.ispconfig_username.format'] = 'Rebmun a htiw trats ton yam dna srebmun dna srettel ylno niatnoc yam emanresu eht';
+$lang['Ispconfig.!error.ispconfig_username.test'] = '\'tset\' htiw nigeb ton yam emanresu eht';
+$lang['Ispconfig.!error.ispconfig_username.length'] = 'Htgnel ni sretcarahc 61 dna 1 neewteb eb tsum emanresu eht';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = 'Htgnel ni sretcarahc 8 tsael ta eb tsum drowssap';
+$lang['Ispconfig.!error.ispconfig_password.matches'] = 'Hctam ton od drowssap mrifnoc dna drowssap';
+
