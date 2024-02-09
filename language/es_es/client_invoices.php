@@ -9,25 +9,25 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientInvoices.index.page_title'] = 'Seciovni %1$s# tneilc';
-$lang['ClientInvoices.index.category_open'] = 'Nepo';
-$lang['ClientInvoices.index.category_closed'] = 'Desolc';
-$lang['ClientInvoices.index.categorylink_make_payment'] = 'Tnemyap ekam';
-$lang['ClientInvoices.index.boxtitle_invoices'] = 'Seciovni';
-$lang['ClientInvoices.index.heading_invoice'] = '# eciovni';
-$lang['ClientInvoices.index.heading_amount'] = 'Tnuoma';
-$lang['ClientInvoices.index.heading_paid'] = 'Diap';
-$lang['ClientInvoices.index.heading_due'] = 'Eud';
-$lang['ClientInvoices.index.heading_dateclosed'] = 'Desolc etad';
-$lang['ClientInvoices.index.heading_datebilled'] = 'Dellib etad';
-$lang['ClientInvoices.index.heading_datedue'] = 'Eud etad';
-$lang['ClientInvoices.index.heading_options'] = 'Snoitpo';
-$lang['ClientInvoices.index.option_view'] = 'Weiv';
-$lang['ClientInvoices.index.option_pay'] = 'Yap';
-$lang['ClientInvoices.index.no_results'] = 'Seciovni %1$s on evah uoy';
-$lang['ClientInvoices.applied.heading_paymenttype'] = 'Epyt tnemyap';
-$lang['ClientInvoices.applied.heading_amount'] = 'Tnuoma';
-$lang['ClientInvoices.applied.heading_applied'] = 'Deilppa';
-$lang['ClientInvoices.applied.heading_appliedon'] = 'No deilppa';
-$lang['ClientInvoices.applied.no_results'] = 'Ti ot deilppa snoitcasnart on sah eciovni siht';
+$lang['ClientInvoices.index.page_title'] = 'Cliente #%1$s Facturas';
+$lang['ClientInvoices.index.category_open'] = 'Abrir';
+$lang['ClientInvoices.index.category_closed'] = 'Cerrado';
+$lang['ClientInvoices.index.categorylink_make_payment'] = 'Realizar el pago';
+$lang['ClientInvoices.index.boxtitle_invoices'] = 'Facturas';
+$lang['ClientInvoices.index.heading_invoice'] = 'Factura #';
+$lang['ClientInvoices.index.heading_amount'] = 'Importe';
+$lang['ClientInvoices.index.heading_paid'] = 'Pagado';
+$lang['ClientInvoices.index.heading_due'] = 'Debido';
+$lang['ClientInvoices.index.heading_dateclosed'] = 'Fecha de cierre';
+$lang['ClientInvoices.index.heading_datebilled'] = 'Fecha de facturación';
+$lang['ClientInvoices.index.heading_datedue'] = 'Fecha de vencimiento';
+$lang['ClientInvoices.index.heading_options'] = 'Opciones';
+$lang['ClientInvoices.index.option_view'] = 'Ver';
+$lang['ClientInvoices.index.option_pay'] = 'Pagar';
+$lang['ClientInvoices.index.no_results'] = 'No tiene %1$s Facturas.';
+$lang['ClientInvoices.applied.heading_paymenttype'] = 'Tipo de pago';
+$lang['ClientInvoices.applied.heading_amount'] = 'Importe';
+$lang['ClientInvoices.applied.heading_applied'] = 'Aplicada';
+$lang['ClientInvoices.applied.heading_appliedon'] = 'Aplicado en';
+$lang['ClientInvoices.applied.no_results'] = 'Esta factura no tiene ninguna transacción aplicada.';
 
