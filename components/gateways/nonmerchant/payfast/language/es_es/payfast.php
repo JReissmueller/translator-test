@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Payfast.name'] = 'Tsafyap';
-$lang['Payfast.description'] = 'Dlrow eht ni erehwyna tsomla morf acirfa htuos ni stnemyap enilno eruces dna tsaf ecneirepxe';
-$lang['Payfast.!error.merchant_id.valid'] = 'Dilavni di tnahcrem';
-$lang['Payfast.!error.merchant_key.valid'] = 'Dilavni yek tnahcrem';
-$lang['Payfast.!error.sandbox.valid'] = 'Dilavni eulav xobdnas';
-$lang['Payfast.meta.merchant_id'] = 'Di tnahcrem';
-$lang['Payfast.meta.merchant_key'] = 'Yek tnahcrem';
-$lang['Payfast.meta.passphrase'] = 'Esarhpssap';
-$lang['Payfast.meta.sandbox'] = 'Xobdnas';
-$lang['Payfast.buildprocess.submit'] = 'Tsafyap htiw yap';
+$lang['Payfast.name'] = 'PayFast';
+$lang['Payfast.description'] = 'Disfrute de pagos en línea rápidos y seguros en Sudáfrica desde casi cualquier lugar del mundo.';
+$lang['Payfast.!error.merchant_id.valid'] = 'ID de comerciante inválido.';
+$lang['Payfast.!error.merchant_key.valid'] = 'Clave de comerciante inválida.';
+$lang['Payfast.!error.sandbox.valid'] = 'Valor no válido.';
+$lang['Payfast.meta.merchant_id'] = 'ID de comerciante';
+$lang['Payfast.meta.merchant_key'] = 'Clave de comerciante';
+$lang['Payfast.meta.passphrase'] = 'Frase de contraseña';
+$lang['Payfast.meta.sandbox'] = 'Cajón de arena';
+$lang['Payfast.buildprocess.submit'] = 'Pague con PayFast';
 
