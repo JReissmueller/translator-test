@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DataFeeds.!error.feed.valid'] = 'Eman deef atad eht retne esaelp';
-$lang['DataFeeds.!error.dir.empty'] = 'Yrotcerid nigulp eht retne esaelp';
-$lang['DataFeeds.!error.class.valid'] = 'Ssalc deef atad dilav a ton si ssalc dedivorp eht';
-$lang['DataFeeds.!error.company_id.exists'] = 'Di ynapmoc dilavni';
-$lang['DataFeeds.!error.endpoint.valid'] = 'Tniopdne eht retne esaelp';
-$lang['DataFeeds.!error.enabled.valid'] = '0 ro 1 ot tes eb tsum noitpo delbane eht';
-$lang['DataFeeds.execute.endpoint_not_found'] = 'Stsixe ton seod tniopdne detseuqer eht';
+$lang['DataFeeds.!error.feed.valid'] = 'Introduzca el nombre de la fuente de datos.';
+$lang['DataFeeds.!error.dir.empty'] = 'Por favor, introduzca el directorio del plugin.';
+$lang['DataFeeds.!error.class.valid'] = 'La clase proporcionada no es una clase de alimentación de datos válida.';
+$lang['DataFeeds.!error.company_id.exists'] = 'ID de empresa no válida.';
+$lang['DataFeeds.!error.endpoint.valid'] = 'Por favor, introduzca el punto final.';
+$lang['DataFeeds.!error.enabled.valid'] = 'La opción activado debe ser 1 o 0.';
+$lang['DataFeeds.execute.endpoint_not_found'] = 'El endpoint solicitado no existe.';
 
