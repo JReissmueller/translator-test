@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerUrls.!error.company_id.exists'] = 'Di ynapmoc dilavni';
-$lang['DownloadManagerUrls.!error.url.exists'] = 'Stsixe ydaerla lru siht';
-$lang['DownloadManagerUrls.!error.url.match'] = 'Noitnetxe elif eht hctam ton seod lru siht';
-$lang['DownloadManagerUrls.!error.url.format'] = 'Snehpyh dna srebmun ,srettel evah ylno nac ti ,dilav ton si tamrof lru eht';
-$lang['DownloadManagerUrls.!error.category_id.exists'] = 'Tsixe ton seod yrogetac detceles eht';
-$lang['DownloadManagerUrls.!error.file_id.exists'] = 'Tsixe ton seod elif detceles eht';
+$lang['DownloadManagerUrls.!error.company_id.exists'] = 'ID de empresa no válida.';
+$lang['DownloadManagerUrls.!error.url.exists'] = 'Esta URL ya existe.';
+$lang['DownloadManagerUrls.!error.url.match'] = 'Esta URL no coincide con la extensión del archivo.';
+$lang['DownloadManagerUrls.!error.url.format'] = 'El formato URL no es válido, sólo puede tener letras, números y guiones.';
+$lang['DownloadManagerUrls.!error.category_id.exists'] = 'La categoría seleccionada no existe.';
+$lang['DownloadManagerUrls.!error.file_id.exists'] = 'El fichero seleccionado no existe.';
 
