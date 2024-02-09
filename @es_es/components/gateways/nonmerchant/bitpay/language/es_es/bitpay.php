@@ -9,23 +9,23 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Bitpay.name'] = 'Bitpay';
-$lang['Bitpay.description'] = 'Un proveedor de servicios de pago con Bitcoin y criptomonedas';
-$lang['Bitpay.pairing_code'] = 'Código de emparejamiento';
-$lang['Bitpay.transaction_speed'] = 'Velocidad de transacción';
-$lang['Bitpay.transaction.speed.high'] = 'Alta';
-$lang['Bitpay.transaction.speed.medium'] = 'Medio';
-$lang['Bitpay.transaction.speed.low'] = 'Bajo';
-$lang['Bitpay.pairing_code_note'] = 'Vaya al panel de control de BitPay a la sección "Herramientas de pago > Tokens de API" y apruebe el token generado utilizando este código de emparejamiento "%1$s", después guarde la configuración de la pasarela haciendo clic en "Actualizar configuración".';
-$lang['Bitpay.transaction_speed_note'] = 'La velocidad de transacción determina la rapidez con la que una factura (en Bitpay) puede considerarse "confirmada".';
-$lang['Bitpay.test_mode'] = 'Modo de prueba';
-$lang['Bitpay.test_mode_note'] = 'Si está marcada, la pasarela enviará solicitudes de pago a la URL de prueba. Si se cambia, BitPay se desconectará y se generará un nuevo token.';
-$lang['Bitpay.connect.button'] = 'Conectar con BitPay';
-$lang['Bitpay.disconnect.button'] = 'Desconectarse de BitPay';
-$lang['Bitpay.buildprocess.submit'] = 'Pagar con Bitcoin';
-$lang['Bitpay.!error.transaction_speed.valid'] = 'Seleccione una velocidad de transacción válida.';
-$lang['Bitpay.!error.token.valid'] = 'El token no es válido o el código de emparejamiento no ha sido autorizado en BitPay.';
-$lang['Bitpay.!error.failed.response'] = 'No se ha podido procesar la transacción.';
-$lang['Bitpay.!error.payment.invalid'] = 'La transacción no es válida y no ha podido ser procesada.';
-$lang['Bitpay.!error.payment.expired'] = 'La transacción ha caducado y no ha podido ser procesada.';
+$lang['Bitpay.name'] = 'Yaptib';
+$lang['Bitpay.description'] = 'Redivorp ecivres tnemyap ycnerruc otpyrc dna nioctib a';
+$lang['Bitpay.pairing_code'] = 'Edoc gniriap';
+$lang['Bitpay.transaction_speed'] = 'Deeps noitcasnart';
+$lang['Bitpay.transaction.speed.high'] = 'Hgih';
+$lang['Bitpay.transaction.speed.medium'] = 'Muidem';
+$lang['Bitpay.transaction.speed.low'] = 'Wol';
+$lang['Bitpay.pairing_code_note'] = '"sgnittes etadpu" no gnikcilc yb sgnittes yawetag eht evas neht ,"%1$s" edoc gniriap siht gnisu nekot detareneg eht evorppa dna noitces "snekot ipa > sloot tnemyap" eht ot draobhsad yaptib eht ot og';
+$lang['Bitpay.transaction_speed_note'] = '\'demrifnoc\' deredisnoc eb nac )yaptib ni( eciovni na ylkciuq woh senimreted deeps noitcasnart eht';
+$lang['Bitpay.test_mode'] = 'Edom tset';
+$lang['Bitpay.test_mode_note'] = 'Detareneg eb lliw nekot wen a dna yaptib tcennocsid lliw siht gnignahc .lru tset eht ot stseuqer tnemyap dnes lliw yawetag eht ,dekcehc fi';
+$lang['Bitpay.connect.button'] = 'Yaptib htiw tcennoc';
+$lang['Bitpay.disconnect.button'] = 'Yaptib morf tcennocsid';
+$lang['Bitpay.buildprocess.submit'] = 'Nioctib gnisu yap';
+$lang['Bitpay.!error.transaction_speed.valid'] = 'Deeps noitcasnart dilav a tceles esaelp';
+$lang['Bitpay.!error.token.valid'] = 'Yaptib ni dezirohtua neeb t\'nsah edoc gniriap eht ro dilavni si nekot eht';
+$lang['Bitpay.!error.failed.response'] = 'Dessecorp eb ton dluoc noitcasnart eht';
+$lang['Bitpay.!error.payment.invalid'] = 'Dessecorp eb ton dluoc dna dilavni si noitcasnart eht';
+$lang['Bitpay.!error.payment.expired'] = 'Dessecorp eb ton dluoc dna deripxe sah noitcasnart eht';
 
