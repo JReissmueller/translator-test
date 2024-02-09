@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.name.valid'] = 'Dilavni si eman';
-$lang['ModuleTypes.!error.type_id.valid'] = 'Dilavni si di epyt eludom eht';
+$lang['ModuleTypes.!error.name.valid'] = 'El nombre no es válido.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'El ID de tipo de módulo no es válido.';
 
