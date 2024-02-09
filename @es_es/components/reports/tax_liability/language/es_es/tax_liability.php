@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['TaxLiability.name'] = 'Responsabilidad fiscal';
-$lang['TaxLiability.options.field_start_date'] = 'Fecha de inicio';
-$lang['TaxLiability.options.field_end_date'] = 'Fecha final';
-$lang['TaxLiability.options.field_cascade_true'] = 'Sí';
-$lang['TaxLiability.options.field_cascade_false'] = 'No';
-$lang['TaxLiability.heading.id_code'] = 'Factura #';
-$lang['TaxLiability.heading.client_id_code'] = 'Cliente';
-$lang['TaxLiability.heading.subtotal'] = 'Subtotal';
-$lang['TaxLiability.heading.taxable_amount'] = 'Base imponible';
-$lang['TaxLiability.heading.level1_tax_rate'] = 'Nivel 1 Tipo impositivo (%)';
-$lang['TaxLiability.heading.level1_tax_amount'] = 'Nivel 1 Importe del impuesto';
-$lang['TaxLiability.heading.level1_tax_country'] = 'Nivel 1 País';
-$lang['TaxLiability.heading.level1_tax_state'] = 'Nivel 1 Estado/Provincia';
-$lang['TaxLiability.heading.level2_tax_rate'] = 'Nivel 2 Tipo impositivo (%)';
-$lang['TaxLiability.heading.level2_tax_amount'] = 'Nivel 2 Importe del impuesto';
-$lang['TaxLiability.heading.level2_tax_country'] = 'Nivel 2 País';
-$lang['TaxLiability.heading.level2_tax_state'] = 'Nivel 2 Estado/Provincia';
-$lang['TaxLiability.heading.cascade'] = 'Impuesto de Cascada';
-$lang['TaxLiability.heading.currency'] = 'Moneda';
-$lang['TaxLiability.heading.date_closed'] = 'Fecha de cierre';
+$lang['TaxLiability.name'] = 'Ytilibail xat';
+$lang['TaxLiability.options.field_start_date'] = 'Etad trats';
+$lang['TaxLiability.options.field_end_date'] = 'Etad dne';
+$lang['TaxLiability.options.field_cascade_true'] = 'Sey';
+$lang['TaxLiability.options.field_cascade_false'] = 'On';
+$lang['TaxLiability.heading.id_code'] = '# eciovni';
+$lang['TaxLiability.heading.client_id_code'] = '# tneilc';
+$lang['TaxLiability.heading.subtotal'] = 'Latotbus';
+$lang['TaxLiability.heading.taxable_amount'] = 'Tnuoma elbaxat';
+$lang['TaxLiability.heading.level1_tax_rate'] = ')%( etar xat 1 level';
+$lang['TaxLiability.heading.level1_tax_amount'] = 'Tnuoma xat 1 level';
+$lang['TaxLiability.heading.level1_tax_country'] = 'Yrtnuoc 1 level';
+$lang['TaxLiability.heading.level1_tax_state'] = 'Ecnivorp/etats 1 level';
+$lang['TaxLiability.heading.level2_tax_rate'] = ')%( etar xat 2 level';
+$lang['TaxLiability.heading.level2_tax_amount'] = 'Tnuoma xat 2 level';
+$lang['TaxLiability.heading.level2_tax_country'] = 'Yrtnuoc 2 level';
+$lang['TaxLiability.heading.level2_tax_state'] = 'Ecnivorp/etats 2 level';
+$lang['TaxLiability.heading.cascade'] = 'Xat edacsac';
+$lang['TaxLiability.heading.currency'] = 'Ycnerruc';
+$lang['TaxLiability.heading.date_closed'] = 'Desolc etad';
 
