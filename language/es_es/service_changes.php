@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ServiceChanges.!error.id.exists'] = 'Di egnahc ecivres dilavni';
-$lang['ServiceChanges.!error.service_id.exists'] = 'Di ecivres dilavni';
-$lang['ServiceChanges.!error.invoice_id.exists'] = 'Di eciovni dilavni';
-$lang['ServiceChanges.!error.invoice_id.unique'] = 'Niaga tes eb ton yam dna egnahc ecivres a rof tes ydaerla si di eciovni eht';
-$lang['ServiceChanges.!error.status.valid'] = 'Sutats dilav a tceles esaelp';
-$lang['ServiceChanges.status.pending'] = 'Gnidnep';
-$lang['ServiceChanges.status.completed'] = 'Detelpmoc';
-$lang['ServiceChanges.status.error'] = 'Rorre';
-$lang['ServiceChanges.status.canceled'] = 'Delecnac';
+$lang['ServiceChanges.!error.id.exists'] = 'ID de cambio de servicio no válido.';
+$lang['ServiceChanges.!error.service_id.exists'] = 'ID de servicio no válido.';
+$lang['ServiceChanges.!error.invoice_id.exists'] = 'ID de factura no válido.';
+$lang['ServiceChanges.!error.invoice_id.unique'] = 'El ID de factura ya está configurado para un cambio de servicio y no puede volver a configurarse.';
+$lang['ServiceChanges.!error.status.valid'] = 'Seleccione un estado válido.';
+$lang['ServiceChanges.status.pending'] = 'Pendiente';
+$lang['ServiceChanges.status.completed'] = 'Completado';
+$lang['ServiceChanges.status.error'] = 'Error';
+$lang['ServiceChanges.status.canceled'] = 'Cancelado';
 
