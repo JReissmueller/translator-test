@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Converge.name'] = 'Converge';
-$lang['Converge.description'] = 'Antes VirtualMerchant';
-$lang['Converge.login_id'] = 'Identificador';
-$lang['Converge.transaction_key'] = 'Clave de transacción';
-$lang['Converge.api'] = 'API de pago';
-$lang['Converge.merchant_id'] = 'ID de comerciante';
-$lang['Converge.user_id'] = 'ID de usuario';
-$lang['Converge.pin'] = 'PIN';
-$lang['Converge.live_mode'] = 'Modo Live';
-$lang['Converge.multiCurrency'] = 'La Cuenta Converge está configurada para Multidivisa';
-$lang['Converge.yes'] = 'Sí';
-$lang['Converge.no'] = 'No';
-$lang['Converge.multiCurrency.error'] = 'Debes especificar si tu cuenta Converge está configurada para multidivisa o no.';
-$lang['Converge.!error.login_id.format'] = 'El ID de inicio de sesión no debe tener más de 20 caracteres y no puede estar vacío.';
-$lang['Converge.!error.transaction_key.format'] = 'La clave de la transacción debe tener 16 caracteres de longitud.';
-$lang['Converge.!error.live_mode.valid'] = 'El modo en directo debe establecerse en "true" si se da.';
+$lang['Converge.name'] = 'Egrevnoc';
+$lang['Converge.description'] = 'Tnahcremlautriv ylremrof';
+$lang['Converge.login_id'] = 'Di nigol';
+$lang['Converge.transaction_key'] = 'Yek noitcasnart';
+$lang['Converge.api'] = 'Ipa tnemyap';
+$lang['Converge.merchant_id'] = 'Di tnahcrem';
+$lang['Converge.user_id'] = 'Di resu';
+$lang['Converge.pin'] = 'Nip';
+$lang['Converge.live_mode'] = 'Edom evil';
+$lang['Converge.multiCurrency'] = 'Ycnerruc itlum rof putes si tnuocca egrevnoc';
+$lang['Converge.yes'] = 'Sey';
+$lang['Converge.no'] = 'On';
+$lang['Converge.multiCurrency.error'] = 'Ton ro ycnerruc itlum rof putes si tnuocca egrevnoc ruoy rehtehw yificeps tsum uoy';
+$lang['Converge.!error.login_id.format'] = 'Ytpme eb ton yam dna sretcarahc 02 naht erom on eb dluohs di nigol';
+$lang['Converge.!error.transaction_key.format'] = 'Htgnel ni sretcarahc 61 eb tsum yek noitcasnart eht';
+$lang['Converge.!error.live_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom evil';
 
