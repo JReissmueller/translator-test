@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Duitku.name'] = 'Uktiud';
-$lang['Duitku.description'] = 'Aisenodni ni noitargetni elgnis a aiv stnemyap klub dnes dna ,srefsnart knab ,stellaw-e ,sdrac tibed dna tiderc tpecca';
-$lang['Duitku.!error.merchant_key.valid'] = 'Dilav ton si yek tnahcrem dedivorp eht';
-$lang['Duitku.!error.merchant_code.empty'] = 'Ytpme eb tonnac edoc tnahcrem eht';
-$lang['Duitku.!error.sandbox.valid'] = 'Eslaf ro eurt rehtie eb tsum dleif xobdnas eht';
-$lang['Duitku.merchant_key'] = 'Yek tnahcrem';
-$lang['Duitku.merchant_code'] = 'Edoc tnahcrem';
-$lang['Duitku.sandbox'] = 'Xobdnas';
-$lang['Duitku.buildprocess.submit'] = 'Uktiud htiw yap';
+$lang['Duitku.name'] = 'Duitku';
+$lang['Duitku.description'] = 'Acepte tarjetas de crédito y débito, monederos electrónicos, transferencias bancarias y envíe pagos masivos a través de una única integración en Indonesia.';
+$lang['Duitku.!error.merchant_key.valid'] = 'La clave de comerciante proporcionada no es válida.';
+$lang['Duitku.!error.merchant_code.empty'] = 'El código de comerciante no puede estar vacío.';
+$lang['Duitku.!error.sandbox.valid'] = 'El campo Sandbox debe ser verdadero o falso.';
+$lang['Duitku.merchant_key'] = 'Clave de comerciante';
+$lang['Duitku.merchant_code'] = 'Código de comerciante';
+$lang['Duitku.sandbox'] = 'Cajón de arena';
+$lang['Duitku.buildprocess.submit'] = 'Pagar con Duitku';
 
