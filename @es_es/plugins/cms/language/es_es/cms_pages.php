@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPages.!error.uri.empty'] = 'Por favor, introduzca la ruta URI a la página.';
-$lang['CmsPages.!error.company_id.exists'] = 'ID de empresa no válida.';
-$lang['CmsPages.!error.title.empty'] = 'Introduzca el título de la página.';
-$lang['CmsPages.!error.content.valid'] = 'Error de análisis de contenido: %1$s';
+$lang['CmsPages.!error.uri.empty'] = 'Egap eht ot htap iru eht retne esaelp';
+$lang['CmsPages.!error.company_id.exists'] = 'Di ynapmoc dilavni';
+$lang['CmsPages.!error.title.empty'] = 'Eltit egap a retne esaelp';
+$lang['CmsPages.!error.content.valid'] = '%1$s :rorre esrap tnetnoc';
 
