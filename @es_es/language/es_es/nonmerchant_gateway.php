@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['NonmerchantGateway.!error.invalid'] = 'Se ha recibido una respuesta de pago no válida o no reconocida.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'La transacción no es válida o ya no está disponible para procesar esa acción.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'La pasarela no admite esa acción.';
-$lang['NonmerchantGateway.!error.general'] = 'Se ha producido un error al procesar la solicitud con la pasarela.';
+$lang['NonmerchantGateway.!error.invalid'] = 'Deviecer saw esnopser tnemyap dezingocernu ro dilavni na';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Noitca taht gnissecorp rof elbaliava regnol on ro dilavni si noitcasnart eht';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Noitca taht troppus ton seod yawetag eht';
+$lang['NonmerchantGateway.!error.general'] = 'Yawetag eht htiw tseuqer eht gnissecorp nehw derucco rorre na';
 
