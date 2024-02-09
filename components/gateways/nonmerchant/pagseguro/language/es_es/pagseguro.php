@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Pagseguro.name'] = 'Orugesgap';
-$lang['Pagseguro.description'] = 'Lisarb sodailifa ossergnoc eht yb "dohtem tnemyap tseb" eht sa dezingocer saw ti ,5102 ni .snoitarepo laicremmoc rof ecivres ecremmoc-e desab-tnemyap elibom ro enilno nailizarb a si orugesgap';
-$lang['Pagseguro.email_id'] = 'Liame';
-$lang['Pagseguro.email_note'] = 'Sserdda liame tnuocca orugesgap ruoy retne';
-$lang['Pagseguro.token'] = 'Nekot';
-$lang['Pagseguro.token_note'] = 'Tnuocca orugesgap ruoy ni detaerc nekot ytiruces eht retne';
-$lang['Pagseguro.buildprocess.submit'] = 'Orugesgap htiw yap';
-$lang['Pagseguro.!error.libxml_required'] = 'Yawetag siht rof deriuqer era snoisnetxe lmxelpmis dna lmxbil eht';
-$lang['Pagseguro.!error.dom_required'] = 'Yawetag siht rof deriuqer si noisnetxe mod eht';
-$lang['Pagseguro.!error.email.format'] = 'Sserdda liame dilav a retne esaelp';
-$lang['Pagseguro.!error.token.empty'] = 'Nekot ytiruces ruoy retne esaelp';
-$lang['Pagseguro.!error.notification.type'] = ':epyt noitacifiton nwonknu';
-$lang['Pagseguro.!error.notification.invalid'] = 'Sretemarap noitacifiton dilavni';
+$lang['Pagseguro.name'] = 'PagSeguro';
+$lang['Pagseguro.description'] = 'PagSeguro es un servicio brasileño de comercio electrónico basado en pagos en línea o móviles para operaciones comerciales. En 2015, fue reconocido como el "Mejor Método de Pago" por el Congresso Afiliados Brasil';
+$lang['Pagseguro.email_id'] = 'Correo electrónico';
+$lang['Pagseguro.email_note'] = 'Introduzca la dirección de correo electrónico de su cuenta PagSeguro.';
+$lang['Pagseguro.token'] = 'Ficha';
+$lang['Pagseguro.token_note'] = 'Introduzca el token de seguridad creado en su cuenta de PagSeguro.';
+$lang['Pagseguro.buildprocess.submit'] = 'Pagar con PagSeguro';
+$lang['Pagseguro.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para esta pasarela.';
+$lang['Pagseguro.!error.dom_required'] = 'La extensión dom es necesaria para esta pasarela.';
+$lang['Pagseguro.!error.email.format'] = 'Introduzca una dirección de correo electrónico válida.';
+$lang['Pagseguro.!error.token.empty'] = 'Introduzca su código de seguridad.';
+$lang['Pagseguro.!error.notification.type'] = 'Tipo de notificación desconocido:';
+$lang['Pagseguro.!error.notification.invalid'] = 'Parámetros de notificación no válidos.';
 
