@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Perfectmoney.name'] = 'Yenom tcefrep';
-$lang['Perfectmoney.payee_account'] = 'Tnuocca eeyap';
-$lang['Perfectmoney.passphrase'] = 'Esarhpssap etanretla';
-$lang['Perfectmoney.passphrase_note'] = 'Stnemyap etadilav ot hsah 5dm eht fo noitaluclac eht rof desu si esarhpssap evitanretla eht';
-$lang['Perfectmoney.buildprocess.submit'] = 'Yenom tcefrep htiw yap';
-$lang['Perfectmoney.!error.payee_account.valid'] = 'Tnuocca dilav a retne tsum uoy';
-$lang['Perfectmoney.!error.passphrase.valid'] = 'Esarhpssap dilav a retne tsum uoy';
+$lang['Perfectmoney.name'] = 'Dinero perfecto';
+$lang['Perfectmoney.payee_account'] = 'Cuenta del beneficiario';
+$lang['Perfectmoney.passphrase'] = 'Frase de acceso alternativa';
+$lang['Perfectmoney.passphrase_note'] = 'La frase de contraseña alternativa se utiliza para el cálculo del hash MD5 para validar los pagos.';
+$lang['Perfectmoney.buildprocess.submit'] = 'Pagar con Perfect Money';
+$lang['Perfectmoney.!error.payee_account.valid'] = 'Debe introducir una cuenta válida.';
+$lang['Perfectmoney.!error.passphrase.valid'] = 'Debe introducir una frase de contraseña válida.';
 
