@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['EmailVerifications.!error.contact_id.exists'] = 'Di tcatnoc dilavni';
-$lang['EmailVerifications.!error.email.valid'] = 'Sserdda liame dilav a retne esaelp';
-$lang['EmailVerifications.!error.token.format'] = 'Nekot dilav a retne esaelp';
-$lang['EmailVerifications.!error.verified.valid'] = '"0" ro "1" eb tsum dleif deifirev eht';
-$lang['EmailVerifications.!error.redirect_url.valid'] = 'Lru dilav a retne esaelp';
+$lang['EmailVerifications.!error.contact_id.exists'] = 'Id. de contacto no válido.';
+$lang['EmailVerifications.!error.email.valid'] = 'Introduzca una dirección de correo electrónico válida.';
+$lang['EmailVerifications.!error.redirect_url.valid'] = 'Por favor, introduzca una URL válida.';
+$lang['EmailVerifications.!error.token.format'] = 'Por favor, introduzca un token válido.';
+$lang['EmailVerifications.!error.verified.valid'] = 'El campo verificado debe ser "1" o "0".';
 
