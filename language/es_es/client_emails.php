@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientEmails.index.page_title'] = 'Yrotsih liame %1$s# tneilc';
-$lang['ClientEmails.index.boxtitle_emails'] = 'Yrotsih liame';
-$lang['ClientEmails.index.heading_date'] = 'Etad';
-$lang['ClientEmails.index.heading_subject'] = 'Tcejbus';
-$lang['ClientEmails.index.heading_summary'] = 'Yrammus';
-$lang['ClientEmails.index.text_to'] = 'Ot';
-$lang['ClientEmails.index.text_cc'] = 'Cc';
-$lang['ClientEmails.index.text_from'] = 'Morf';
-$lang['ClientEmails.index.no_results'] = 'Yrotsih liame on evah uoy';
+$lang['ClientEmails.index.page_title'] = 'Historial de correo electrónico del cliente #%1$s';
+$lang['ClientEmails.index.boxtitle_emails'] = 'Historial del correo electrónico';
+$lang['ClientEmails.index.heading_date'] = 'Fecha';
+$lang['ClientEmails.index.heading_subject'] = 'Asunto';
+$lang['ClientEmails.index.heading_summary'] = 'Resumen';
+$lang['ClientEmails.index.text_to'] = 'A';
+$lang['ClientEmails.index.text_cc'] = 'CC';
+$lang['ClientEmails.index.text_from'] = 'En';
+$lang['ClientEmails.index.no_results'] = 'No tienes historial de correo electrónico.';
 
