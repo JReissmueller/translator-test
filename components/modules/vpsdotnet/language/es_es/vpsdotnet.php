@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.es_es
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.name'] = 'Ten.spv';
+$lang['Vpsdotnet.description'] = 'Gnitsoh revres dezilautriv sedivorp ten.spv';
+$lang['Vpsdotnet.module_row'] = 'Revres retsam ten.spv';
+$lang['Vpsdotnet.module_row_plural'] = 'Srevres';
+$lang['Vpsdotnet.module_group'] = 'Puorg retsam ten.spv';
+$lang['Vpsdotnet.order_options.first'] = 'Revres lluf-non tsrif';
+$lang['Vpsdotnet.please_wait'] = 'Tiaw esaelp';
+$lang['Vpsdotnet.add_module_row'] = 'Revres dda';
+$lang['Vpsdotnet.add_module_group'] = 'Puorg revres dda';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'Srevres retsam ten.spv';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Lebal revres';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Liame';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Snoitpo';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Tide';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Eteled';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = '?revres siht eteled ot tnaw uoy erus uoy era';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Srevres on era ereht';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'Spuorg revres retsam ten.spv';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Eman puorg';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Tnuoc revres';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Snoitpo';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Tide';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Eteled';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = '?puorg revres siht eteled ot tnaw uoy erus uoy era';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Spuorg revres on era ereht';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Sserdda pi yramirp';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Drowssap';
+$lang['Vpsdotnet.add_row.box_title'] = 'Revres ten.spv dda';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Sgnittes cisab';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Lebal revres';
+$lang['Vpsdotnet.row_meta.email'] = 'Liame';
+$lang['Vpsdotnet.row_meta.key'] = 'Yek ipa';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Revres dda';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Revres ten.spv tide';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Sgnittes cisab';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Revres etadpu';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Sedon fo rebmun';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Etalpmet dna ,metsys gnitarepo ,enoz/duolc tes tneilc tel';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Enoz/duolc a tceles';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Enoz/duolc';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Etalpmet dna metsys gnitarepo tes tneilc tel';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Metsys gnitarepo tceles';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Metsys gnitarepo';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Etalpmet tes tneilc tel';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Etalpmet tceles';
+$lang['Vpsdotnet.package_fields.template'] = 'Etalpmet';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Emantsoh';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'Lebal spv';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Enoz/duolc';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Metsys gnitarepo';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Etalpmet';
+$lang['Vpsdotnet.tab_actions'] = 'Snoitca revres';
+$lang['Vpsdotnet.tab_console'] = 'Elosnoc';
+$lang['Vpsdotnet.tab_client_actions'] = 'Snoitca revres';
+$lang['Vpsdotnet.tab_client_console'] = 'Elosnoc';
+$lang['Vpsdotnet.!actions.boot'] = 'Toob';
+$lang['Vpsdotnet.!actions.reboot'] = 'Toober';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Nwodtuhs';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Llatsnier';
+$lang['Vpsdotnet.!actions.hostname'] = 'Emantsoh egnahc';
+$lang['Vpsdotnet.!actions.password'] = 'Drowssap teser';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Enilno';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Enilffo';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'Gnidnep';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Nwonknu';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Snoitca';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Sutats revres';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Llatsnier';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Metsys gnitarepo';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Etalpmet';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Dellatsni eb lliw etalpmet dna metsys gnitarepo detceles eht dna ,deteled yltnenamrep eb lliw revres eht no atad lla ,gnillatsnier yb taht dnatsrednu i';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Llatsnier';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Emantsoh egnahc';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Emantsoh';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Emantsoh egnahc';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Drowssap teser';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Drowssap teser';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Sutats revres';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Enilno';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Enilffo';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'Gnidnep';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Nwonknu';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Snoitca revres';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Llatsnier';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Metsys gnitarepo';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Etalpmet';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Dellatsni eb lliw etalpmet dna metsys gnitarepo detceles eht dna ,deteled yltnenamrep eb lliw revres eht no atad lla ,gnillatsnier yb taht dnatsrednu i';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Llatsnier';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Emantsoh egnahc';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Emantsoh';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Emantsoh egnahc';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Drowssap teser';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Drowssap teser';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Elosnoc';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Drowssap';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Elosnoc';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Drowssap';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Revres siht rof lebal a retne esaelp';
+$lang['Vpsdotnet.!error.email.format'] = 'Sserdda liame dilav a retne esaelp';
+$lang['Vpsdotnet.!error.key.empty'] = 'Yek ipa ruoy retne esaelp';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Tcerroc era yek ipa dna sserdda liame eht taht erusne ot kcehc esaelp .dehsilbatse eb ton dluoc revres eht ot noitcennoc a';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Sedon deriuqer dda ot elbanu';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Detadpu eb ton dluoc enihcam lautriv eht dna derrucco rorre na';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Demrofrep eb ton dluoc noitca eht dna derrucco rorre na';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Dellecnac eb ton dluoc ecivres eht dna derrucco rorre na';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Dellatsnier eb ton dluoc etalpmet eht dna derrucco rorre na';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Etalpmet dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Noitallatsnier etalpmet eht mrofrep ot redro ni noitca llatsnier eht dnatsrednu uoy taht egdelwonkca tsum uoy';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Detacolla eb ot sedon fo rebmun eht retne esaelp';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Duolc a tes ot tneilc a wolla ot rehtehw tceles esaelp';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Duolc dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Metsys gnitarepo eht tes ot tneilc a wolla ot rehtehw tceles esaelp';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Metsys gnitarepo dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Etalpmet eht tes ot tneilc a wolla ot rehtehw tceles esaelp';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Etalpmet dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Dilavni eb ot sraeppa emantsoh eht';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Lebal a retne esaelp';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Sretcarahc laiceps niatnoc ton yam lebal eht';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Duolc dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Metsys gnitarepo dilav a tceles esaelp';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Etalpmet dilav a tceles esaelp';
+
