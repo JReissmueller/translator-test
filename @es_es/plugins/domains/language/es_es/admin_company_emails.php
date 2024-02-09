@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Recordatorio de expiración de dominio 1';
-$lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Primer aviso enviado a un cliente cuando su dominio va a expirar pronto.';
-$lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Recordatorio de expiración de dominio 2';
-$lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Segundo aviso enviado a un cliente cuando su dominio va a expirar pronto.';
-$lang['AdminCompanyEmails.templates.Domains.domain_expiration_name'] = 'Aviso de expiración de dominio';
-$lang['AdminCompanyEmails.templates.Domains.domain_expiration_desc'] = 'Aviso enviado a un cliente poco después de que su dominio haya expirado.';
+$lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = '1 rednimer noitaripxe niamod';
+$lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Eripxe noos lliw niamod rieht nehw tneilc a ot tnes eciton tsrif';
+$lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = '2 rednimer noitaripxe niamod';
+$lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Eripxe noos lliw niamod rieht nehw tneilc a ot tnes eciton dnoces';
+$lang['AdminCompanyEmails.templates.Domains.domain_expiration_name'] = 'Eciton noitaripxe niamod';
+$lang['AdminCompanyEmails.templates.Domains.domain_expiration_desc'] = 'Deripxe sah niamod rieht retfa noos tneilc a ot tnes eciton';
 
