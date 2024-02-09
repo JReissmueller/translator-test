@@ -9,22 +9,22 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Staff.!error.user_id.exists'] = 'Di resu dilavni';
-$lang['Staff.!error.user_id.unique'] = 'Nekat ydaerla si %1$s di resu ffats';
-$lang['Staff.!error.first_name.empty'] = 'Eman tsrif a retne esaelp';
-$lang['Staff.!error.last_name.empty'] = 'Eman tsal a retne esaelp';
-$lang['Staff.!error.email.format'] = 'Sserdda liame dilav a retne esaelp';
-$lang['Staff.!error.status.format'] = 'Sutats dilavni';
-$lang['Staff.!error.groups[].format'] = 'S\'di puorg dilavni erom ro eno era ereht';
-$lang['Staff.!error.groups.unique_company'] = 'Rebmem ffats a ot dengissa eb yam ynapmoc rep puorg ffats eno ylno';
-$lang['Staff.!error.staff_id.format'] = 'Rebmun a eb tsum di ffats eht';
-$lang['Staff.!error.company_id.format'] = 'Rebmun a eb tsum di ynapmoc eht';
-$lang['Staff.!error.uri.empty'] = 'Iru a retne esaelp';
-$lang['Staff.!error.title.empty'] = 'Eltit a retne esaelp';
-$lang['Staff.!error.order.format'] = 'Rebmun a eb tsum redro tros eht';
-$lang['Staff.!error.order.length'] = 'Sretcarahc 5 deecxe ton yam htgnel redro tros eht';
-$lang['Staff.!error.staff_group_id.exists'] = 'Di puorg ffats dilavni';
-$lang['Staff.!error.staff_id.exists'] = 'Di ffats dilavni';
-$lang['Staff.!error.action.exists'] = 'Tsixe ton seod %1$s noitca puorg liame eht';
-$lang['Staff.!error.action[].exists'] = 'Tsixe ton seod snoitca puorg liame eht fo eno tsael ta';
+$lang['Staff.!error.user_id.exists'] = 'ID de usuario no válida.';
+$lang['Staff.!error.user_id.unique'] = 'El ID de usuario %1$s ya está ocupado.';
+$lang['Staff.!error.first_name.empty'] = 'Por favor, introduzca un nombre.';
+$lang['Staff.!error.last_name.empty'] = 'Por favor, introduzca un apellido.';
+$lang['Staff.!error.email.format'] = 'Introduzca una dirección de correo electrónico válida.';
+$lang['Staff.!error.status.format'] = 'Estado no válido.';
+$lang['Staff.!error.groups[].format'] = 'Hay uno o más ID de grupo no válidos.';
+$lang['Staff.!error.groups.unique_company'] = 'Sólo se puede asignar un grupo de personal por empresa a un miembro del personal.';
+$lang['Staff.!error.staff_id.format'] = 'La identificación del personal debe ser un número.';
+$lang['Staff.!error.company_id.format'] = 'La identificación de la empresa debe ser un número.';
+$lang['Staff.!error.uri.empty'] = 'Por favor, introduzca un URI.';
+$lang['Staff.!error.title.empty'] = 'Por favor, introduzca un título.';
+$lang['Staff.!error.order.format'] = 'El orden de clasificación debe ser un número.';
+$lang['Staff.!error.order.length'] = 'La longitud de la orden de clasificación no puede superar los 5 caracteres.';
+$lang['Staff.!error.staff_group_id.exists'] = 'ID de grupo de personal no válida.';
+$lang['Staff.!error.staff_id.exists'] = 'ID de personal no válida.';
+$lang['Staff.!error.action.exists'] = 'La acción de grupo de correo %1$s no existe.';
+$lang['Staff.!error.action[].exists'] = 'Al menos una de las acciones de grupo de correo electrónico no existe.';
 
