@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.description'] = 'El Portal le permite definir el contenido de la página que se mostrará en la URL de la página de inicio de Blesta.';
-$lang['CmsPlugin.index.title'] = 'Portal del cliente';
-$lang['CmsPlugin.name'] = 'Portal';
+$lang['CmsPlugin.name'] = 'Latrop';
+$lang['CmsPlugin.description'] = 'Lru egapemoh s\'atselb ta yalpsid ot tnetnoc egap tes ot uoy swolla latrop eht';
+$lang['CmsPlugin.index.title'] = 'Latrop tneilc';
 
