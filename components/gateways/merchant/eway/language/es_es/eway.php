@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Eway.!error.customer_id.empty'] = 'Di remotsuc yawe ruoy retne esaelp';
-$lang['Eway.!error.customer_id.length'] = 'Htgnel ni sretcarahc 8 deecxe ton yam di remotsuc eht';
-$lang['Eway.!error.developer_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom repoleved';
-$lang['Eway.!error.test_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom tset';
-$lang['Eway.!error.refund_password.empty'] = 'Yawe hguorht sdnufer ssecorp ot redro ni tes eb tsum drowssap dnufer a';
-$lang['Eway.!error.libxml_required'] = 'Yawetag siht rof deriuqer era snoisnetxe lmxelpmis dna lmxbil eht';
-$lang['Eway.!error.invalid_xml'] = 'Lmx dilavni htiw dednopser yawetag eht';
-$lang['Eway.name'] = 'Yawe';
-$lang['Eway.description'] = 'Sessenisub fo sdnasuoht fo snet rof ebolg eht ssorca raey yreve stnemyap ni srallod fo snoillib sessecorp .seirtnuoc 5 ni sedart dna tekram enilno nailartsua eht fo %52 si yawe';
-$lang['Eway.customer_id'] = 'Di remotsuc';
-$lang['Eway.refund_password'] = 'Drowssap dnufer';
-$lang['Eway.developer_mode'] = 'Edom repoleved';
-$lang['Eway.test_mode'] = 'Edom tset';
-$lang['Eway.tooltip_refund_password'] = 'Yawe hguorht sdnufer ssecorp ot redro ni tes eb tsum drowssap dnufer a .drowssap tnuocca yawe ruoy ton si siht .tnuocca yawe ruoy ni tes evah uoy drowssap dnufer eht retne';
-$lang['Eway.tooltip_developer_mode'] = 'Tnemnorivne siht esu ot redro ni tnuocca tset xobdnas a evah tsum uoy .tnemnorivne xobdnas yawe eht ot snoitcasnart tsop lliw noitpo siht gnilbane';
-$lang['Eway.tooltip_test_mode'] = 'Launam eht tlusnoc esaelp yawe ni edom tset gnidrager noitamrofni erom rof .retne uoy tahw fo sseldrager rebmun drac tiderc tset a htiw tnuocca tset yawe na esu lliw edom tset';
+$lang['Eway.!error.customer_id.empty'] = 'Por favor, introduzca su ID de cliente eWAY.';
+$lang['Eway.!error.customer_id.length'] = 'El ID de cliente no puede tener más de 8 caracteres.';
+$lang['Eway.!error.developer_mode.valid'] = 'El modo desarrollador debe ser "true" si se indica.';
+$lang['Eway.!error.test_mode.valid'] = 'El modo de prueba debe establecerse en "true" si se indica.';
+$lang['Eway.!error.refund_password.empty'] = 'Debe establecerse una contraseña de reembolso para procesar los reembolsos a través de eWAY.';
+$lang['Eway.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para esta pasarela.';
+$lang['Eway.!error.invalid_xml'] = 'La pasarela respondió con un XML no válido.';
+$lang['Eway.name'] = 'eWAY';
+$lang['Eway.description'] = 'eWAY representa el 25% del mercado australiano en línea y opera en 5 países. Procesa miles de millones de dólares en pagos cada año en todo el mundo para decenas de miles de empresas.';
+$lang['Eway.customer_id'] = 'Identificación del cliente';
+$lang['Eway.refund_password'] = 'Contraseña de reembolso';
+$lang['Eway.developer_mode'] = 'Modo Desarrollador';
+$lang['Eway.test_mode'] = 'Modo de prueba';
+$lang['Eway.tooltip_refund_password'] = 'Introduzca la contraseña de reembolso que ha establecido en su cuenta eWAY. Esta no es la contraseña de su cuenta eWAY. Debe establecer una contraseña de reembolso para procesar reembolsos a través de eWAY.';
+$lang['Eway.tooltip_developer_mode'] = 'Habilitando esta opción se contabilizarán las transacciones en el entorno sandbox del eWAY. Debe tener una cuenta de prueba sandbox para poder utilizar este entorno.';
+$lang['Eway.tooltip_test_mode'] = 'El modo de prueba utilizará una cuenta de prueba eWAY con un número de tarjeta de crédito de prueba independientemente de lo que introduzca. Para más información sobre el modo de prueba en eWAY consulte el manual.';
 
