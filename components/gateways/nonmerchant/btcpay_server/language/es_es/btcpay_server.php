@@ -9,25 +9,25 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['BtcpayServer.name'] = ')nioctib( yapctb';
-$lang['BtcpayServer.description'] = 'Seef on htiw yawetag tnemyap nioctib ,detsoh-fles a si revresyapctb';
-$lang['BtcpayServer.!error.server_url.valid'] = 'Dilavni lru revres';
-$lang['BtcpayServer.!error.transaction_speed.valid'] = 'Deeps noitcasnart dilav a tceles esaelp';
-$lang['BtcpayServer.!error.store_id.valid'] = 'Dilavni di erots';
-$lang['BtcpayServer.!error.api_key.valid'] = 'Dilavni yek ipa';
-$lang['BtcpayServer.!error.failed.response'] = 'Dessecorp eb ton dluoc noitcasnart eht';
-$lang['BtcpayServer.!error.payment.invalid'] = 'Dessecorp eb ton dluoc dna dilavni si noitcasnart eht';
-$lang['BtcpayServer.!error.payment.expired'] = 'Dessecorp eb ton dluoc dna deripxe sah noitcasnart eht';
-$lang['BtcpayServer.!error.webhook_secret.valid'] = 'Terces koohbew dilav a retne tsum uoy';
-$lang['BtcpayServer.meta.server_url'] = 'Lru revres';
-$lang['BtcpayServer.meta.store_id'] = 'Di erots';
-$lang['BtcpayServer.meta.api_key'] = 'Yek ipa';
-$lang['BtcpayServer.meta.transaction_speed'] = 'Deeps noitcasnart';
-$lang['BtcpayServer.meta.webhook_secret'] = 'Terces koohbew';
-$lang['BtcpayServer.transaction.speed.high'] = 'Hgih';
-$lang['BtcpayServer.transaction.speed.medium'] = 'Muidem';
-$lang['BtcpayServer.transaction.speed.low'] = 'Wol';
-$lang['BtcpayServer.webhook'] = 'Koohbew revres yapctb';
-$lang['BtcpayServer.webhook_note'] = 'Revres yapctb ruoy ni koohbew a sa lru gniwollof eht erugifnoc tsum uoy yawetag siht gnisu trats uoy erofeb';
-$lang['BtcpayServer.buildprocess.submit'] = 'Tnemyap timbus';
+$lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.description'] = 'BTCPayServer es una pasarela de pago Bitcoin autoalojada y sin comisiones.';
+$lang['BtcpayServer.!error.server_url.valid'] = 'URL del servidor inválida.';
+$lang['BtcpayServer.!error.transaction_speed.valid'] = 'Seleccione una velocidad de transacción válida.';
+$lang['BtcpayServer.!error.store_id.valid'] = 'ID de tienda inválido.';
+$lang['BtcpayServer.!error.api_key.valid'] = 'Clave API inválida.';
+$lang['BtcpayServer.!error.failed.response'] = 'No se ha podido procesar la transacción.';
+$lang['BtcpayServer.!error.payment.invalid'] = 'La transacción no es válida y no ha podido ser procesada.';
+$lang['BtcpayServer.!error.payment.expired'] = 'La transacción ha caducado y no ha podido ser procesada.';
+$lang['BtcpayServer.!error.webhook_secret.valid'] = 'Debe introducir un Webhook Secret válido.';
+$lang['BtcpayServer.meta.server_url'] = 'URL del servidor';
+$lang['BtcpayServer.meta.store_id'] = 'ID de la tienda';
+$lang['BtcpayServer.meta.api_key'] = 'Clave API';
+$lang['BtcpayServer.meta.transaction_speed'] = 'Velocidad de transacción';
+$lang['BtcpayServer.meta.webhook_secret'] = 'Secreto de Webhook';
+$lang['BtcpayServer.transaction.speed.high'] = 'Alta';
+$lang['BtcpayServer.transaction.speed.medium'] = 'Medio';
+$lang['BtcpayServer.transaction.speed.low'] = 'Bajo';
+$lang['BtcpayServer.webhook'] = 'Webhook del servidor BTCPay';
+$lang['BtcpayServer.webhook_note'] = 'Antes de empezar a utilizar esta pasarela debe configurar la siguiente url como Webhook en su servidor BTCPay.';
+$lang['BtcpayServer.buildprocess.submit'] = 'Enviar pago';
 
