@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminClientsService.totals.subtotal'] = 'Latotbus';
+$lang['AdminClientsService.totals.subtotal'] = 'Subtotal:';
 
