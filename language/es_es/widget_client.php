@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['WidgetClient.submit'] = 'Timbus';
+$lang['WidgetClient.submit'] = 'Enviar';
 
