@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientGroups.!error.name.empty'] = 'Eman puorg a yficeps esaelp';
-$lang['ClientGroups.!error.company_id.exists'] = 'Di ynapmoc dilavni';
-$lang['ClientGroups.!error.color.length'] = 'Sretcarahc 61 deecxe ton yam htgnel roloc';
-$lang['ClientGroups.!error.group_id.exists'] = 'Di puorg tneilc dilavni';
-$lang['ClientGroups.!error.clients_format.format'] = '}mun{ niatnoc tsum tamrof di tneilc eht';
+$lang['ClientGroups.!error.name.empty'] = 'Especifique un nombre de grupo.';
+$lang['ClientGroups.!error.company_id.exists'] = 'ID de empresa no válida.';
+$lang['ClientGroups.!error.color.length'] = 'La longitud del color no puede superar los 16 caracteres.';
+$lang['ClientGroups.!error.group_id.exists'] = 'ID de grupo de clientes no válido.';
+$lang['ClientGroups.!error.clients_format.format'] = 'El formato de ID de cliente debe contener {num}.';
 
