@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Tsixe ton seod tneilc eht';
-$lang['ClientDocumentsFiles.!error.name.valid'] = 'Deriuqer si eman tnemucod a';
-$lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Deriuqer si dedda etad dilav a';
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'El cliente no existe.';
+$lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Se requiere una fecha válida añadida.';
+$lang['ClientDocumentsFiles.!error.name.valid'] = 'Se requiere un nombre de documento.';
 
