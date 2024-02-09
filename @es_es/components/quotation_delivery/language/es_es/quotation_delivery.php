@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['QuotationDelivery.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para la entrega de facturas.';
-$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Cita #%1$s';
-$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Cita #%1$s';
+$lang['QuotationDelivery.!error.libxml_required'] = 'Yreviled eciovni rof deriuqer era snoisnetxe lmxelpmis dna lmxbil eht';
+$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = '%1$s# noitatouq';
+$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = '%1$s# noitatouq';
 

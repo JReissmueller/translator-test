@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PaypalCheckout.name'] = 'Pago con PayPal';
-$lang['PaypalCheckout.description'] = 'Con una integración sencilla y única puede aceptar tarjetas de débito y crédito, PayPal y más de 10 métodos de pago locales.';
-$lang['PaypalCheckout.!error.client_id.valid'] = 'ID de cliente inválido.';
-$lang['PaypalCheckout.!error.client_secret.valid'] = 'Secreto de cliente inválido.';
-$lang['PaypalCheckout.meta.client_id'] = 'ID de cliente';
-$lang['PaypalCheckout.meta.client_secret'] = 'Secreto de cliente';
-$lang['PaypalCheckout.meta.sandbox'] = 'Cajón de arena';
-$lang['PaypalCheckout.webhook'] = 'Gancho Web de PayPal';
-$lang['PaypalCheckout.webhook_note'] = 'Antes de empezar a utilizar esta pasarela debe configurar la siguiente url como Webhook en su cuenta PayPal.';
-$lang['PaypalCheckout.!error.event.unsupported'] = 'Tipo de evento no soportado.';
-$lang['PaypalCheckout.!error.transaction.missing'] = 'No se ha encontrado ninguna transacción.';
+$lang['PaypalCheckout.name'] = 'Tuokcehc lapyap';
+$lang['PaypalCheckout.description'] = 'Sdohtem tnemyap lacol +01 dna ,lapyap ,sdrac tiderc dna tibed tpecca nac uoy noitargetni elgnis ,elpmis a htiw';
+$lang['PaypalCheckout.!error.client_id.valid'] = 'Dilavni di tneilc';
+$lang['PaypalCheckout.!error.client_secret.valid'] = 'Dilavni terces tneilc';
+$lang['PaypalCheckout.!error.event.unsupported'] = 'Epyt tneve detroppusnu';
+$lang['PaypalCheckout.!error.transaction.missing'] = 'Dnuof noitcasnart on';
+$lang['PaypalCheckout.meta.client_id'] = 'Di tneilc';
+$lang['PaypalCheckout.meta.client_secret'] = 'Terces tneilc';
+$lang['PaypalCheckout.meta.sandbox'] = 'Xobdnas';
+$lang['PaypalCheckout.webhook'] = 'Koohbew lapyap';
+$lang['PaypalCheckout.webhook_note'] = 'Tnuocca lapyap ruoy ni koohbew a sa lru gniwollof eht erugifnoc tsum uoy yawetag siht gnisu trats uoy erofeb';
 

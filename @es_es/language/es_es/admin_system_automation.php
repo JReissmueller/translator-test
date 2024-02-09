@@ -9,20 +9,20 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Por favor, establezca una clave cron.';
-$lang['AdminSystemAutomation.!success.automation_updated'] = 'Los ajustes de automatización se han actualizado correctamente.';
-$lang['AdminSystemAutomation.!success.cron_key'] = 'La clave cron se ha actualizado correctamente.';
-$lang['AdminSystemAutomation.index.page_title'] = 'Configuración > Sistema > Automatización';
-$lang['AdminSystemAutomation.index.boxtitle_automation'] = 'Automatización';
-$lang['AdminSystemAutomation.index.heading_status'] = 'Estado Cron';
-$lang['AdminSystemAutomation.index.field_croncommand'] = 'Ejemplo de comando Cron';
-$lang['AdminSystemAutomation.index.field_runcron'] = 'Ejecutar Cron manualmente';
-$lang['AdminSystemAutomation.index.field_cron_key'] = 'Clave Cron';
-$lang['AdminSystemAutomation.index.field_cronkey_submit'] = 'Actualizar Cron Key';
-$lang['AdminSystemAutomation.index.text_cron_last_ran'] = 'El cron se ejecutó por última vez el %1$s.';
-$lang['AdminSystemAutomation.index.text_cron_never_ran'] = 'El cron nunca se ha ejecutado.';
-$lang['AdminSystemAutomation.index.text_cron_currently_running'] = 'El cron se está ejecutando actualmente.';
-$lang['AdminSystemAutomation.index.text_update_key'] = 'Actualizar Cron Key';
-$lang['AdminSystemAutomation.index.text_generate_code'] = 'Generar código';
-$lang['AdminSystemAutomation.index.note_cron_command'] = 'Este es un ejemplo de comando cron que puede ser usado para crear una tarea cron en su servidor. Cuando configure el trabajo cron, asegúrese de actualizar el comando cron para que apunte a donde está instalado PHP si difiere de lo que se muestra en este ejemplo.';
+$lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Yek norc a tes esaelp';
+$lang['AdminSystemAutomation.!success.automation_updated'] = '!detadpu yllufsseccus erew sgnittes noitamotua eht';
+$lang['AdminSystemAutomation.!success.cron_key'] = '!detadpu yllufsseccus neeb sah yek norc eht';
+$lang['AdminSystemAutomation.index.page_title'] = 'Noitamotua > metsys > sgnittes';
+$lang['AdminSystemAutomation.index.boxtitle_automation'] = 'Noitamotua';
+$lang['AdminSystemAutomation.index.heading_status'] = 'Sutats norc';
+$lang['AdminSystemAutomation.index.field_croncommand'] = 'Dnammoc norc elpmaxe';
+$lang['AdminSystemAutomation.index.field_runcron'] = 'Yllaunam norc nur';
+$lang['AdminSystemAutomation.index.field_cron_key'] = 'Yek norc';
+$lang['AdminSystemAutomation.index.field_cronkey_submit'] = 'Yek norc etadpu';
+$lang['AdminSystemAutomation.index.text_cron_last_ran'] = '%1$s no nar tsal norc eht';
+$lang['AdminSystemAutomation.index.text_cron_never_ran'] = 'Nur reven sah norc eht';
+$lang['AdminSystemAutomation.index.text_cron_currently_running'] = 'Gninnur yltnerruc si norc eht';
+$lang['AdminSystemAutomation.index.text_update_key'] = 'Yek norc etadpu';
+$lang['AdminSystemAutomation.index.text_generate_code'] = 'Edoc etareneg';
+$lang['AdminSystemAutomation.index.note_cron_command'] = 'Elpmaxe siht ni nwohs si tahw morf sreffid ti fi dellatsni si php erehw ot tniop ot dnammoc norc eht etadpu ot erus eb ,boj norc eht pu gnittes nehw .revres ruoy no boj norc a etaerc ot desu eb yam taht dnammoc norc elpmaxe na si siht';
 

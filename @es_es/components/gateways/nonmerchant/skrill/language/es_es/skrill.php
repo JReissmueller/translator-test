@@ -9,21 +9,21 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Skrill.name'] = 'Skrill';
-$lang['Skrill.description'] = 'Plataforma londinense de comercio electrónico centrada en las transferencias internacionales de dinero a bajo coste.';
-$lang['Skrill.user_email'] = 'Correo electrónico';
-$lang['Skrill.secret_word'] = 'Palabra secreta';
-$lang['Skrill.merchant_id'] = 'ID de comerciante';
-$lang['Skrill.mqi'] = 'Contraseña MQI';
-$lang['Skrill.secret_word_note'] = 'Introduzca la palabra secreta de su cuenta Skrill.';
-$lang['Skrill.user_email_note'] = 'Introduzca la dirección de correo electrónico de su cuenta Skrill.';
-$lang['Skrill.merchant_id_note'] = 'Introduzca el ID de comerciante de su cuenta Skrill.';
-$lang['Skrill.mqi_note'] = 'Introduzca la contraseña de su cuenta MQI API de Skrill.';
-$lang['Skrill.buildprocess.submit'] = 'Pagar con Skrill';
-$lang['Skrill.invoice.description'] = 'Facturas';
-$lang['Skrill.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para esta pasarela.';
-$lang['Skrill.!error.user_email.valid'] = 'Introduzca una dirección de correo electrónico válida.';
-$lang['Skrill.!error.secret_word.empty'] = 'Introduzca la palabra secreta de su cuenta.';
-$lang['Skrill.!error.mqi.empty'] = 'Por favor, introduzca su contraseña MQI.';
-$lang['Skrill.!error.merchant_id.empty'] = 'Por favor, introduzca su ID de comerciante.';
+$lang['Skrill.name'] = 'Llirks';
+$lang['Skrill.description'] = 'Srefsnart yenom lanoitanretni tsoc-wol no sucof a htiw mroftalp ecremmoc-e desab nodnol a';
+$lang['Skrill.user_email'] = 'Liame';
+$lang['Skrill.secret_word'] = 'Drow terces';
+$lang['Skrill.merchant_id'] = 'Di tnahcrem';
+$lang['Skrill.mqi'] = 'Drowssap iqm';
+$lang['Skrill.secret_word_note'] = 'Drow terces tnuocca llirks ruoy retne';
+$lang['Skrill.user_email_note'] = 'Sserdda liame tnuocca llirks ruoy retne';
+$lang['Skrill.merchant_id_note'] = 'Di tnahcrem tnuocca llirks ruoy retne';
+$lang['Skrill.mqi_note'] = 'Drowssap ipa iqm tnuocca llirks ruoy retne';
+$lang['Skrill.buildprocess.submit'] = 'Llirks htiw yap';
+$lang['Skrill.invoice.description'] = 'Seciovni';
+$lang['Skrill.!error.libxml_required'] = 'Yawetag siht rof deriuqer era snoisnetxe lmxelpmis dna lmxbil eht';
+$lang['Skrill.!error.user_email.valid'] = 'Sserdda liame dilav a retne esaelp';
+$lang['Skrill.!error.secret_word.empty'] = 'Drow terces tnuocca ruoy retne esaelp';
+$lang['Skrill.!error.mqi.empty'] = 'Drowssap iqm ruoy retne esaelp';
+$lang['Skrill.!error.merchant_id.empty'] = 'Di tnahcrem ruoy retne esaelp';
 

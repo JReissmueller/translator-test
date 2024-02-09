@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageGroups.!error.names.format'] = 'Los nombres de los grupos de paquetes tienen un formato no válido.';
-$lang['PackageGroups.!error.names.empty_name'] = 'Especifique un nombre de grupo de paquetes para cada idioma.';
-$lang['PackageGroups.!error.names.empty_lang'] = 'Especifique un código de idioma de grupo de paquetes para cada nombre.';
-$lang['PackageGroups.!error.descriptions.format'] = 'Las descripciones de los grupos de paquetes tienen un formato no válido.';
-$lang['PackageGroups.!error.descriptions.empty_lang'] = 'Especifique un código de idioma de grupo de paquetes para cada descripción.';
-$lang['PackageGroups.!error.type.format'] = 'Tipo de grupo no válido.';
-$lang['PackageGroups.!error.company_id.exists'] = 'ID de empresa no válida.';
-$lang['PackageGroups.!error.parents.format'] = 'Al menos un ID de grupo de padres dado es un grupo no estándar no disponible para su uso como padre.';
-$lang['PackageGroups.!error.hidden.format'] = 'Si este grupo debe estar oculto en la interfaz debe establecerse en 1 o 0.';
-$lang['PackageGroups.!error.allow_upgrades.format'] = 'Si los paquetes dentro de este grupo pueden ser actualizados/desactualizados debe establecerse a 1 o 0.';
-$lang['PackageGroups.gettypes.standard'] = 'Estándar';
-$lang['PackageGroups.gettypes.addon'] = 'Complemento';
+$lang['PackageGroups.!error.names.format'] = 'Tamrof dilavni na ni era seman puorg egakcap eht';
+$lang['PackageGroups.!error.names.empty_name'] = 'Egaugnal hcae rof eman puorg egakcap a yficeps esaelp';
+$lang['PackageGroups.!error.names.empty_lang'] = 'Eman hcae rof edoc egaugnal puorg egakcap a yficeps esaelp';
+$lang['PackageGroups.!error.descriptions.format'] = 'Tamrof dilavni na ni era snoitpircsed puorg egakcap eht';
+$lang['PackageGroups.!error.descriptions.empty_lang'] = 'Noitpircsed hcae rof edoc egaugnal puorg egakcap a yficeps esaelp';
+$lang['PackageGroups.!error.type.format'] = 'Epyt puorg dilavni';
+$lang['PackageGroups.!error.company_id.exists'] = 'Di ynapmoc dilavni';
+$lang['PackageGroups.!error.parents.format'] = 'Tnerap a sa esu rof elbaliavanu puorg dradnats-non a si nevig di puorg tnerap eno tsael ta';
+$lang['PackageGroups.!error.hidden.format'] = '0 ro 1 ot tes eb tsum ecafretni eht ni neddih eb dluohs puorg siht rehtehw';
+$lang['PackageGroups.!error.allow_upgrades.format'] = '0 ro 1 ot tes eb tsum dedargnwod/dedargpu eb nac puorg siht nihtiw segakcap rehtehw';
+$lang['PackageGroups.gettypes.standard'] = 'Dradnats';
+$lang['PackageGroups.gettypes.addon'] = 'No-dda';
 

@@ -9,23 +9,23 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AgingInvoices.name'] = 'Antigüedad de las facturas';
-$lang['AgingInvoices.options.field_status'] = 'Estado';
-$lang['AgingInvoices.option.any'] = 'Cualquier';
-$lang['AgingInvoices.heading.id_code'] = 'Factura #';
-$lang['AgingInvoices.heading.client_id_code'] = 'Cliente';
-$lang['AgingInvoices.heading.client_first_name'] = 'Nombre del cliente';
-$lang['AgingInvoices.heading.client_last_name'] = 'Apellido del cliente';
-$lang['AgingInvoices.heading.client_email'] = 'Correo electrónico del cliente';
-$lang['AgingInvoices.heading.client_numbers'] = 'Números de teléfono de los clientes';
-$lang['AgingInvoices.heading.subtotal'] = 'Subtotal';
-$lang['AgingInvoices.heading.total'] = 'Total';
-$lang['AgingInvoices.heading.paid'] = 'Pagado';
-$lang['AgingInvoices.heading.currency'] = 'Moneda';
-$lang['AgingInvoices.heading.status'] = 'Estado';
-$lang['AgingInvoices.heading.date_billed'] = 'Fecha de facturación';
-$lang['AgingInvoices.heading.date_due'] = 'Fecha de vencimiento';
-$lang['AgingInvoices.heading.past30'] = '30';
-$lang['AgingInvoices.heading.past60'] = '60';
-$lang['AgingInvoices.heading.past90'] = '90+';
+$lang['AgingInvoices.name'] = 'Seciovni gniga';
+$lang['AgingInvoices.options.field_status'] = 'Sutats';
+$lang['AgingInvoices.option.any'] = 'Yna';
+$lang['AgingInvoices.heading.id_code'] = '# eciovni';
+$lang['AgingInvoices.heading.client_id_code'] = '# tneilc';
+$lang['AgingInvoices.heading.client_first_name'] = 'Eman tsrif tneilc';
+$lang['AgingInvoices.heading.client_last_name'] = 'Eman tsal tneilc';
+$lang['AgingInvoices.heading.client_email'] = 'Liame tneilc';
+$lang['AgingInvoices.heading.client_numbers'] = 'Srebmun enohp tneilc';
+$lang['AgingInvoices.heading.subtotal'] = 'Latotbus';
+$lang['AgingInvoices.heading.total'] = 'Latot';
+$lang['AgingInvoices.heading.paid'] = 'Diap';
+$lang['AgingInvoices.heading.currency'] = 'Ycnerruc';
+$lang['AgingInvoices.heading.status'] = 'Sutats';
+$lang['AgingInvoices.heading.date_billed'] = 'Dellib etad';
+$lang['AgingInvoices.heading.date_due'] = 'Eud etad';
+$lang['AgingInvoices.heading.past30'] = '03';
+$lang['AgingInvoices.heading.past60'] = '06';
+$lang['AgingInvoices.heading.past90'] = '+09';
 

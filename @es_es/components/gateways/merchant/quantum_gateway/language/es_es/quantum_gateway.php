@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Quantum_gateway.!error.gateway_login.empty'] = 'Introduzca su nombre de usuario de Gateway.';
-$lang['Quantum_gateway.!error.restrict_key.empty'] = 'Por favor, introduzca su clave restringida.';
-$lang['Quantum_gateway.!error.maxmind.valid'] = 'Maxmind debe establecerse en "true" si se da.';
-$lang['Quantum_gateway.name'] = 'QuantumGateway';
-$lang['Quantum_gateway.description'] = 'QuantumGateway se desarrolló para proporcionar a las empresas la herramienta de procesamiento de pagos más útil, con más funciones y más fácil de usar jamás creada.';
-$lang['Quantum_gateway.gateway_login'] = 'Inicio de sesión en Gateway';
-$lang['Quantum_gateway.restrict_key'] = 'Clave de restricción';
-$lang['Quantum_gateway.maxmind'] = 'Utiliza Maxmind';
-$lang['Quantum_gateway.tooltip_maxmind'] = 'Marque la casilla para activar el Control de Fraude Maxmind. Compruebe su panel de control QuantumGateway para ver ajustes adicionales de Maxmind.';
+$lang['Quantum_gateway.!error.gateway_login.empty'] = 'Nigol yawetag ruoy retne esaelp';
+$lang['Quantum_gateway.!error.restrict_key.empty'] = 'Yek tcirtser ruoy retne esaelp';
+$lang['Quantum_gateway.!error.maxmind.valid'] = 'Nevig fi "eurt" ot tes eb tsum dnimxam';
+$lang['Quantum_gateway.name'] = 'Yawetagmutnauq';
+$lang['Quantum_gateway.description'] = 'Detaerc reve loot gnissecorp tnemyap esu ot ysae dna ,dehcirne-erutaef ,lufesu tsom eht htiw sessenisub edivorp ot depoleved saw yawetagmutnauq';
+$lang['Quantum_gateway.gateway_login'] = 'Nigol yawetag';
+$lang['Quantum_gateway.restrict_key'] = 'Yek tcirtser';
+$lang['Quantum_gateway.maxmind'] = 'Dnimxam esu';
+$lang['Quantum_gateway.tooltip_maxmind'] = 'Sgnittes dnimxam lanoitidda rof lenap lortnoc yawetagmutnauq ruoy kcehc .lortnoc duarf dnimxam elbane ot xob eht kcehc';
 

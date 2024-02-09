@@ -9,22 +9,22 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PaypalPaymentsStandard.name'] = 'Pagos estándar de PayPal';
-$lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard es una de las formas más sencillas de aceptar pagos con tarjeta de crédito y PayPal en Internet de forma segura.';
-$lang['PaypalPaymentsStandard.account_id'] = 'Correo electrónico de la cuenta PayPal';
-$lang['PaypalPaymentsStandard.page_style'] = 'Nombre del estilo de página';
-$lang['PaypalPaymentsStandard.page_style_note'] = 'Nombre de estilo de página del tema de página de pago personalizado que creó en PayPal. Déjelo en blanco para el estilo de página predeterminado.';
-$lang['PaypalPaymentsStandard.dev_mode'] = 'Modo Desarrollador';
-$lang['PaypalPaymentsStandard.dev_mode_note'] = 'Si activa esta opción, las transacciones se publicarán en el entorno de pruebas de PayPal. Active esta opción únicamente si está realizando pruebas con una cuenta del entorno de pruebas de PayPal.';
-$lang['PaypalPaymentsStandard.api_username'] = 'Nombre de usuario API';
-$lang['PaypalPaymentsStandard.api_username_note'] = 'Esto, así como la contraseña de API y la firma de API, son necesarios para procesar los reintegros a través de PayPal.';
-$lang['PaypalPaymentsStandard.api_password'] = 'Contraseña API';
-$lang['PaypalPaymentsStandard.api_signature'] = 'Firma API';
-$lang['PaypalPaymentsStandard.pay_type'] = 'Formas de pago';
-$lang['PaypalPaymentsStandard.pay_type_onetime'] = 'Pagos únicos';
-$lang['PaypalPaymentsStandard.pay_type_subscribe'] = 'Sólo pagos de suscripción';
-$lang['PaypalPaymentsStandard.pay_type_both'] = 'Pagos únicos y de suscripción cuando sea posible';
-$lang['PaypalPaymentsStandard.buildprocess.submit'] = 'Pagar con PayPal';
-$lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Debe introducir una dirección de correo electrónico válida.';
-$lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'El modo desarrollador debe ser "true" si se indica.';
+$lang['PaypalPaymentsStandard.name'] = 'Dradnats stnemyap lapyap';
+$lang['PaypalPaymentsStandard.description'] = 'Enilno stnemyap lapyap dna drac tiderc tpecca yleruces ot syaw tseisae eht fo eno si dradnats stnemyap lapyap';
+$lang['PaypalPaymentsStandard.account_id'] = 'Liame tnuocca lapyap';
+$lang['PaypalPaymentsStandard.page_style'] = 'Eman elyts egap';
+$lang['PaypalPaymentsStandard.page_style_note'] = 'Elyts egap tluafed eht rof knalb evael .lapyap ni detaerc uoy emeht egap tnemyap motsuc eht fo eman elyts egap eht';
+$lang['PaypalPaymentsStandard.dev_mode'] = 'Edom repoleved';
+$lang['PaypalPaymentsStandard.dev_mode_note'] = 'Tnuocca xobdnas lapyap a htiw gnitset era uoy fi noitpo siht elbane ylno .tnemnorivne xobdnas lapyap eht ot snoitcasnart tsop lliw noitpo siht gnilbane';
+$lang['PaypalPaymentsStandard.api_username'] = 'Emanresu ipa';
+$lang['PaypalPaymentsStandard.api_username_note'] = 'Lapyap hguorht sdnufer ssecorp ot redro ni deriuqer era ,erutangis ipa dna drowssap ipa sa llew sa ,siht';
+$lang['PaypalPaymentsStandard.api_password'] = 'Drowssap ipa';
+$lang['PaypalPaymentsStandard.api_signature'] = 'Erutangis ipa';
+$lang['PaypalPaymentsStandard.pay_type'] = 'Snoitpo tnemyap';
+$lang['PaypalPaymentsStandard.pay_type_onetime'] = 'Ylno stnemyap emit eno';
+$lang['PaypalPaymentsStandard.pay_type_subscribe'] = 'Ylno stnemyap noitpircsbus';
+$lang['PaypalPaymentsStandard.pay_type_both'] = 'Elbissop nehw stnemyap noitpircsbus dna emit eno';
+$lang['PaypalPaymentsStandard.buildprocess.submit'] = 'Lapyap htiw yap';
+$lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Sserdda liame dilav a retne tsum uoy';
+$lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'Nevig fi "eurt" ot tes eb tsum edom repoleved';
 

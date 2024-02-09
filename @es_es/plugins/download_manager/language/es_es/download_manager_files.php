@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerFiles.!error.category_id.exists'] = 'Seleccione una categoría válida.';
-$lang['DownloadManagerFiles.!error.company_id.exists'] = 'ID de empresa no válida.';
-$lang['DownloadManagerFiles.!error.name.empty'] = 'Introduzca un nombre para este archivo.';
-$lang['DownloadManagerFiles.!error.file_name.format'] = 'Por favor, cargue un archivo o introduzca una ruta válida al archivo.';
-$lang['DownloadManagerFiles.!error.public.format'] = 'La opción de disponibilidad pública tiene un formato no válido.';
-$lang['DownloadManagerFiles.!error.public.assignment'] = 'El archivo debe estar disponible para el público, grupos de clientes o paquetes.';
-$lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'La opción de disponibilidad del grupo de clientes tiene un formato no válido.';
-$lang['DownloadManagerFiles.!error.file_groups.format'] = 'Al menos un grupo de clientes seleccionado no se puede añadir porque no existe.';
-$lang['DownloadManagerFiles.!error.permit_packages.format'] = 'La opción de disponibilidad del paquete tiene un formato no válido.';
-$lang['DownloadManagerFiles.!error.file_packages.format'] = 'Al menos un paquete seleccionado no puede añadirse porque no existe.';
-$lang['DownloadManagerFiles.!error.file_id.exists'] = 'El fichero que se está actualizando no existe.';
+$lang['DownloadManagerFiles.!error.category_id.exists'] = 'Yrogetac dilav a tceles esaelp';
+$lang['DownloadManagerFiles.!error.company_id.exists'] = 'Di ynapmoc dilavni';
+$lang['DownloadManagerFiles.!error.name.empty'] = 'Elif siht rof eman a retne esaelp';
+$lang['DownloadManagerFiles.!error.file_name.format'] = 'Elif eht ot htap dilav a retne ro elif a daolpu esaelp';
+$lang['DownloadManagerFiles.!error.public.format'] = 'Tamrof dilavni na ni si noitpo ytilibaliava cilbup eht';
+$lang['DownloadManagerFiles.!error.public.assignment'] = 'Segakcap ro ,spuorg tneilc ,cilbup eht rehtie ot elbaliava eb tsum elif eht';
+$lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'Tamrof dilavni na ni si noitpo ytilibaliava puorg tneilc eht';
+$lang['DownloadManagerFiles.!error.file_groups.format'] = 'Tsixe ton seod ti esuaceb dedda eb tonnac detceles puorg tneilc eno tsael ta';
+$lang['DownloadManagerFiles.!error.permit_packages.format'] = 'Tamrof dilavni na ni si noitpo ytilibaliava egakcap eht';
+$lang['DownloadManagerFiles.!error.file_packages.format'] = 'Tsixe ton seod ti esuaceb dedda eb tonnac detceles egakcap eno tsael ta';
+$lang['DownloadManagerFiles.!error.file_id.exists'] = 'Tsixe ton seod detadpu gnieb elif eht';
 

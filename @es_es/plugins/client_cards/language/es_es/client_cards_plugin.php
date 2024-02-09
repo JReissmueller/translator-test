@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientCardsPlugin.name'] = 'Tarjetas de cliente';
-$lang['ClientCardsPlugin.description'] = 'Muestra información resumida del cliente en tarjetas en la interfaz del cliente.';
-$lang['ClientCardsPlugin.card_client.services'] = 'Servicios';
-$lang['ClientCardsPlugin.card_client.invoices'] = 'Facturas';
+$lang['ClientCardsPlugin.name'] = 'Sdrac tneilc';
+$lang['ClientCardsPlugin.description'] = 'Ecafretni tneilc eht no sdrac ni noitamrofni yrammus tneilc syalpsid';
+$lang['ClientCardsPlugin.card_client.services'] = 'Secivres';
+$lang['ClientCardsPlugin.card_client.invoices'] = 'Seciovni';
 
