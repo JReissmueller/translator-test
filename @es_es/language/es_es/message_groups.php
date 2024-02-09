@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessageGroups.!error.action.empty'] = 'Por favor, introduzca una acción.';
-$lang['MessageGroups.!error.type.valid'] = 'El tipo de grupo de mensajes debe ser "cliente", "personal" o "compartido".';
-$lang['MessageGroups.!error.plugin_dir.empty'] = 'Por favor, introduzca el directorio del plugin.';
-$lang['MessageGroups.!error.tags.empty'] = 'Por favor, introduzca las etiquetas.';
-$lang['MessageGroups.getTypes.staff'] = 'Personal';
-$lang['MessageGroups.getTypes.client'] = 'Cliente';
-$lang['MessageGroups.getTypes.shared'] = 'Compartido';
+$lang['MessageGroups.!error.action.empty'] = 'Noitca na retne esaelp';
+$lang['MessageGroups.!error.type.valid'] = '"derahs" ro "ffats" ,"tneilc" ot tes eb tsum epyt puorg egassem eht';
+$lang['MessageGroups.!error.plugin_dir.empty'] = 'Yrotcerid nigulp eht retne esaelp';
+$lang['MessageGroups.!error.tags.empty'] = 'Sgat eht retne esaelp';
+$lang['MessageGroups.getTypes.staff'] = 'Ffats';
+$lang['MessageGroups.getTypes.client'] = 'Tneilc';
+$lang['MessageGroups.getTypes.shared'] = 'Derahs';
 
