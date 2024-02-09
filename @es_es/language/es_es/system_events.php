@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.event.empty'] = 'Introduzca un nombre para el evento.';
-$lang['SystemEvents.!error.event.length'] = 'El evento no puede superar los %1$s caracteres de longitud.';
-$lang['SystemEvents.!error.observer.valid'] = 'Proporcione un observador invocable por espacio de nombres o ruta del sistema de archivos.';
+$lang['SystemEvents.!error.event.empty'] = 'Eman tneve na retne esaelp';
+$lang['SystemEvents.!error.event.length'] = 'Htgnel ni sretcarahc %1$s deecxe ton yam tneve eht';
+$lang['SystemEvents.!error.observer.valid'] = 'Htap metsys elif ro ecapseman yb revresbo elballac a edivorp esaelp';
 
