@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MerchantGateway.!error.card_number_invalid'] = 'Dilavni si rebmun drac eht';
-$lang['MerchantGateway.!error.card_expired'] = 'Deripxe sah drac eht';
-$lang['MerchantGateway.!error.routing_number_invalid'] = 'Dilavni si rebmun gnituor eht';
-$lang['MerchantGateway.!error.account_number_invalid'] = 'Dilavni si rebmun tnuocca eht';
-$lang['MerchantGateway.!error.duplicate_transaction'] = 'Detceted neeb sah noitcasnart etacilpud a';
-$lang['MerchantGateway.!error.card_not_accepted'] = 'Detpecca ton era epyt taht fo sdrac';
-$lang['MerchantGateway.!error.invalid_security_code'] = 'Dilavni eb ot sraeppa edoc ytiruces eht';
-$lang['MerchantGateway.!error.address_verification_failed'] = 'Dilavni eb ot sraeppa sserdda eht';
-$lang['MerchantGateway.!error.transaction_not_found'] = 'Noitca taht gnissecorp rof elbaliava regnol on ro dilavni si noitcasnart eht';
-$lang['MerchantGateway.!error.unsupported'] = 'Noitca taht troppus ton seod yawetag eht';
-$lang['MerchantGateway.!error.general'] = 'Yawetag eht htiw tseuqer eht gnissecorp nehw derucco rorre na';
+$lang['MerchantGateway.!error.card_number_invalid'] = 'El número de tarjeta no es válido.';
+$lang['MerchantGateway.!error.card_expired'] = 'La tarjeta ha caducado.';
+$lang['MerchantGateway.!error.routing_number_invalid'] = 'El número de ruta no es válido.';
+$lang['MerchantGateway.!error.account_number_invalid'] = 'El número de cuenta no es válido.';
+$lang['MerchantGateway.!error.duplicate_transaction'] = 'Se ha detectado una transacción duplicada.';
+$lang['MerchantGateway.!error.card_not_accepted'] = 'No se aceptan tarjetas de ese tipo.';
+$lang['MerchantGateway.!error.invalid_security_code'] = 'El código de seguridad parece no ser válido.';
+$lang['MerchantGateway.!error.address_verification_failed'] = 'La dirección parece no ser válida.';
+$lang['MerchantGateway.!error.transaction_not_found'] = 'La transacción no es válida o ya no está disponible para procesar esa acción.';
+$lang['MerchantGateway.!error.unsupported'] = 'La pasarela no admite esa acción.';
+$lang['MerchantGateway.!error.general'] = 'Se ha producido un error al procesar la solicitud con la pasarela.';
 
