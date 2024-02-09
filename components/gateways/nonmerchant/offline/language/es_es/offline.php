@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Offline.name'] = 'Tnemyap enilffo';
-$lang['Offline.description'] = 'Enilffo stnemyap gnikat rof snoitcurtsni laiceps yalpsid ot uoy swolla';
-$lang['Offline.instructions'] = 'Snoitcurtsni';
-$lang['Offline.!error.instructions.valid'] = 'Snoitcurtsni emos retne tsum uoy';
+$lang['Offline.name'] = 'Pago fuera de línea';
+$lang['Offline.description'] = 'Permite mostrar instrucciones especiales para aceptar pagos sin conexión.';
+$lang['Offline.instructions'] = 'Instrucciones';
+$lang['Offline.!error.instructions.valid'] = 'Debe introducir algunas instrucciones.';
 
