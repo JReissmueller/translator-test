@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AutoCancelPlugin.description'] = 'Programa automáticamente la cancelación de servicios.';
-$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Programa automáticamente los servicios suspendidos para su cancelación.';
-$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Cancelación automática de horarios';
-$lang['AutoCancelPlugin.name'] = 'Cancelación automática';
+$lang['AutoCancelPlugin.name'] = 'Lecnac otua';
+$lang['AutoCancelPlugin.description'] = 'Noitallecnac rof secivres seludehcs yllacitamotua';
+$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Noitallecnac eludehcs otua';
+$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Noitallecnac rof secivres dednepsus seludehcs yllacitamotua';
 
