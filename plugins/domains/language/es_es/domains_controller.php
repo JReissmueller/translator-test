@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsController.example'] = 'Egaugnal elpmaxe';
+$lang['DomainsController.example'] = 'Ejemplo de lengua';
 
